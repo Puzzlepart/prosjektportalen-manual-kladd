@@ -19,8 +19,8 @@ nøkkelinfo om hvert prosjekt. Her kan du også opprette nye prosjekter.
 
 Prosjektet må være ferdig konfigurert for at prosjektkortet vises på forsiden.
 
-![](./media/3porteføljeforside.png)
-<img src = "https://raw.githubusercontent.com/Puzzlepart/pages-poc/master/Brukermanual/3%20Portefolje//media/3porteføljeforside.png" width ="100%" height = "50%">     
+![](./media/3-porteføljeforside.png)
+<img src = "https://raw.githubusercontent.com/Puzzlepart/pages-poc/master/Brukermanual/3%20Portefolje//media/3-porteføljeforside.png" width ="100%" height = "50%">     
 
 1)  Toppnavigasjon: Denne tar deg til forsiden i Prosjektportalen 365 eller direkte til ulike funksjoner i porteføljeområdet.
 
