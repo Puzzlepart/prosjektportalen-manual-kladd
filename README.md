@@ -1,3 +1,12 @@
+---
+layout: default
+title: Startside
+nav_order: 1
+nav_exclude: false
+has_children: false
+parent:
+---
+
 # Startside
 ## Brukermanual for Prosjektportalen 365
 
