@@ -2,7 +2,7 @@
 layout: default
 title: Readme
 nav_order: 12
-nav_exclude: true
+nav_exclude: false
 has_children: false
 parent:
 ---
