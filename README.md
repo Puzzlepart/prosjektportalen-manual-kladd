@@ -1,13 +1,4 @@
----
-layout: default
-title: Readme
-nav_order: 12
-nav_exclude: false
-has_children: false
-parent:
----
-
-# Readme
+# Om brukermanualen
 ## Brukermanual for Prosjektportalen 365
 
 Brukermanualen vil til enhver tid gjenspeile siste gjeldende versjon av Prosjektportalen 365 som du finner på Github.
