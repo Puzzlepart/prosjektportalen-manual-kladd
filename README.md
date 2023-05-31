@@ -1,4 +1,13 @@
-# Startside
+---
+layout: default
+title: Readme
+nav_order: 1
+nav_exclude: true
+has_children: false
+parent:
+---
+
+# Readme
 ## Brukermanual for Prosjektportalen 365
 
 Brukermanualen vil til enhver tid gjenspeile siste gjeldende versjon av Prosjektportalen 365 som du finner på Github.
