@@ -10,14 +10,14 @@ has_children: true
 
 Porteføljenivået gir god oversikt over alle prosjektene i porteføljen. I denne oversikten kan du følge status på prosjekter, utvikling i gevinstrealisering og annen nøkkelinfo om prosjekter.
 
-Det er i porteføljenivået at standarddokumenter, standardoppgaver, standardinteressenter og standard fasesjekkpunkter blir vedlikeholdt.
+Det er i porteføljenivået som standarddokumenter, standardoppgaver, standardinteressenter og standard fasesjekkpunkter blir vedlikeholdt.
 
 ## Forsiden
 
 På forsiden får du en oversikt over tilgjengelige prosjekter med
 nøkkelinfo om hvert prosjekt. Her kan du også opprette nye prosjekter.
 
-Prosjektet må være ferdig konfigurert for at prosjektkortet vises på forsiden.
+Prosjektet må være ferdig konfigurert for at prosjektkortet skal vises på forsiden.
 
 <img src = "https://raw.githubusercontent.com/Puzzlepart/prosjektportalen-manual-kladd/main/Brukermanual/3%20Portefolje//media/3-Portefoljeforside.png" width ="100%" height ="50%" >     
 
@@ -48,7 +48,7 @@ Prosjektet må være ferdig konfigurert for at prosjektkortet vises på forsiden
 
 6)  Nyheter viser artikler som er publisert på prosjektområdene.
 
-I tillegg er det et område for lenker nederst på siden. Lenker kan
+I tillegg er det et område for Nyttige lenker nederst på siden. Lenker kan
 brukes til å peke til nyttige områder eller dokumenter som er
 relevante for brukere av Prosjektportalen. Lenkene vises for alle
 brukere som har tilgang til porteføljenivået.
