@@ -38,3 +38,6 @@ Før egenskaper for prosjektet er fylt ut, vil forsiden se ut som bildet under. 
 9.  ***Prosjektnyheter*** fungerer som prosjektets informasjonskanal. Her kan deltagere poste korte meldinger til hverandre eller til rommet generelt. Man kan også legge inn generelle lenker til både internt og eksternt materiell.
 
 10. ***Teamskobling*** opprettes ved å velge «opprett et Team». Da vil et Team bli opprettet og koblet til Office365-området som prosjektet representerer.
+
+
+
