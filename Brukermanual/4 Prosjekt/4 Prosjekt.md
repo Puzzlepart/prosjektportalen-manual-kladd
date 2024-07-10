@@ -7,7 +7,7 @@ has_children: true
 ---
 
 # Prosjektområdet
-# OLD
+# OLDOLDOLD
 Et *prosjektområde* omfatter et enkelt prosjekt og alt innholdet i prosjektet. Hver installasjon av Prosjektportalen kan ha mange
 prosjektområder.
 
