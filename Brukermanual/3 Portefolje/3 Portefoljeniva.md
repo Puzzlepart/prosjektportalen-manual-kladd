@@ -33,22 +33,21 @@ Prosjektet må være ferdig konfigurert for at prosjektkortet skal vises på for
     porteføljen som man har tilgang på. Her vises prosjektkort som
     lenker til prosjektet og viser prosjektets fase, prosjektleder og prosjekteier. Trykk på ![](./media/3.2UtvidelseProsjektkort.png) nederst til venstre i hvert prosjektkort for å se ytterligere prosjektinformasjon.
     
-    **Tilgang til** - Her vises alle prosjekter du har tilgang til (inkludert lesetilgang).
+    **A) Tilgang til** - Her vises alle prosjekter du har tilgang til (inkludert lesetilgang).
     
-    **Mine prosjekter** - Her vises alle prosjekter hvor du er medlem.
+    **B) Mine prosjekter** - Her vises alle prosjekter hvor du er medlem.
 
-    **Alle prosjekter** - Her vises alle prosjekter i miljøet. Prosjekter hvor du ikke er medlem vil være grået ut, og utilgjengelig for deg.
+    **C) Alle prosjekter** - Her vises alle prosjekter i miljøet. Prosjekter hvor du ikke er medlem vil være grået ut, og utilgjengelig for deg.
 
-    **Overordnede områder** - Viser alle overordnede områder i miljøet.
+    **D) Overordnede områder** - Viser alle overordnede områder i miljøet.
 
-    **Program** - Her vises alle programområdene i miljøet.
+    **E) Program** - Her vises alle programområdene i miljøet.
 
     
 5)  Siste prosjekter gir oversikt over de siste prosjektene som er blitt opprettet i Prosjektportalen. Du ser bare prosjekter som du har tilgang til.
 
 6)  Nyheter viser artikler som er publisert på prosjektområdene.
+  
+7)  I tillegg er det et område for Nyttige lenker nederst på siden. Lenker kan brukes til å peke til nyttige områder eller dokumenter som er relevante for brukere av Prosjektportalen. Lenkene vises for alle brukere     som har tilgang til porteføljenivået.
 
-I tillegg er det et område for Nyttige lenker nederst på siden. Lenker kan
-brukes til å peke til nyttige områder eller dokumenter som er
-relevante for brukere av Prosjektportalen. Lenkene vises for alle
-brukere som har tilgang til porteføljenivået.
+
