@@ -19,7 +19,9 @@ nøkkelinfo om hvert prosjekt. Her kan du også opprette nye prosjekter.
 
 Prosjektet må være ferdig konfigurert for at prosjektkortet skal vises på forsiden.
 
-<img src = "https://raw.githubusercontent.com/Puzzlepart/prosjektportalen-manual-kladd/main/Brukermanual/3%20Portefolje//media/3-Portefoljeforside.png" width ="100%" height ="50%" >     
+
+<img src = "https://raw.githubusercontent.com/Puzzlepart/prosjektportalen-manual-kladd/main/Brukermanual/3%20Portefolje//media/3 Portefoljeforside.png" width ="100%" height ="50%" > 
+
 
 1)  Toppnavigasjon: Denne tar deg til forsiden i Prosjektportalen 365 eller direkte til ulike funksjoner i porteføljeområdet.
 
@@ -43,11 +45,28 @@ Prosjektet må være ferdig konfigurert for at prosjektkortet skal vises på for
 
     **E) Program** - Her vises alle programområdene i miljøet.
 
-    
-5)  Siste prosjekter gir oversikt over de siste prosjektene som er blitt opprettet i Prosjektportalen. Du ser bare prosjekter som du har tilgang til.
 
-6)  Nyheter viser artikler som er publisert på prosjektområdene.
+
+    Hold muspekeren eller trykk på ikonene for mer informasjon om prosjektet:
+
+    
+    <img src = "https://raw.githubusercontent.com/Puzzlepart/prosjektportalen-manual-kladd/main/Brukermanual/3%20Portefolje//media/3 Portefoljeforside prosjektinfo.png" width ="50%" height ="30%" > 
+
+           
+    ***a) Prosjekttype*** - Viser hvilken type prosjektet er (Standard, bygg, anlegg,..).
+
+    ***b) Hurtigmeny for prosjekt*** - Hurtigmeny til forvalge områder (eks. Prosjektstatus, dokumentbibliotek, oppgaver, ..).
+
+    ***c) Prosjektinformasjonspanel*** - Åpner en panel med mer informasjon om prosjektet.
+   
+
+    
+    
+    
+6)  Siste prosjekter gir oversikt over de siste prosjektene som er blitt opprettet i Prosjektportalen. Du ser bare prosjekter som du har tilgang til.
+
+7)  Nyheter viser artikler som er publisert på prosjektområdene.
   
-7)  I tillegg er det et område for Nyttige lenker nederst på siden. Lenker kan brukes til å peke til nyttige områder eller dokumenter som er relevante for brukere av Prosjektportalen. Lenkene vises for alle brukere     som har tilgang til porteføljenivået.
+8)  I tillegg er det et område for Nyttige lenker nederst på siden. Lenker kan brukes til å peke til nyttige områder eller dokumenter som er relevante for brukere av Prosjektportalen. Lenkene vises for alle brukere     som har tilgang til porteføljenivået.
 
 
