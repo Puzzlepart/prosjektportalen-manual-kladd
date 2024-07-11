@@ -45,11 +45,14 @@ Prosjektet må være ferdig konfigurert for at prosjektkortet skal vises på for
 
 ## Prosjekt filtrering og detaljer om prosjekter
 
-Videre kan du filtrere på eksisterende prosjekter samt se mer detaljer om prosjektene. På prosjektkortene kan du holde muspekeren eller trykke på ikonene F-H for mer informasjon om prosjektet
+Videre kan du filtrere på eksisterende prosjekter samt se mer detaljer om prosjektene. På prosjektkortene (F-H) kan du holde muspekeren over ikonene eller trykke på dem for mer informasjon om prosjektet
+
 
 
 <img src = "https://raw.githubusercontent.com/Puzzlepart/prosjektportalen-manual-kladd/main/Brukermanual/3%20Portefolje//media/3 Portefoljeforside prosjektinfo.png" width ="100%" height ="50%" >
-    
+
+
+
 
 ***A) Tilgang til***- Her vises alle prosjekter du har tilgang til (inkludert lesetilgang).
 	    
