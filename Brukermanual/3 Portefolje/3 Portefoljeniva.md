@@ -35,37 +35,42 @@ Prosjektet må være ferdig konfigurert for at prosjektkortet skal vises på for
     porteføljen som man har tilgang på. Her vises prosjektkort som
     lenker til prosjektet og viser prosjektets fase, prosjektleder og prosjekteier. 
 
-    <img src = "https://raw.githubusercontent.com/Puzzlepart/prosjektportalen-manual-kladd/main/Brukermanual/3%20Portefolje//media/3 Portefoljeforside prosjektinfo.png" width ="100%" height ="50%" >
+5)  Siste prosjekter gir oversikt over de siste prosjektene som er blitt opprettet i Prosjektportalen. Du ser bare prosjekter som du har tilgang til.
 
-    
-    **A) Tilgang til** - Her vises alle prosjekter du har tilgang til (inkludert lesetilgang).
-    
-    **B) Mine prosjekter** - Her vises alle prosjekter hvor du er medlem.
-
-    **C) Alle prosjekter** - Her vises alle prosjekter i miljøet. Prosjekter hvor du ikke er medlem vil være grået ut, og utilgjengelig for deg.
-
-    **D) Overordnede områder** - Viser alle overordnede områder i miljøet.
-
-    **E) Program** - Her vises alle programområdene i miljøet.
-
-
-
-    Hold muspekeren eller trykk på ikonene for mer informasjon om prosjektet:
-              
-    ***a) Prosjekttype*** - Viser hvilken type prosjektet er (Standard, bygg, anlegg,..).
-
-    ***b) Hurtigmeny for prosjekt*** - Hurtigmeny til forvalge områder (eks. Prosjektstatus, dokumentbibliotek, oppgaver, ..).
-
-    ***c) Prosjektinformasjonspanel*** - Åpner en panel med mer informasjon om prosjektet.
-   
-
-    
-    
-    
-6)  Siste prosjekter gir oversikt over de siste prosjektene som er blitt opprettet i Prosjektportalen. Du ser bare prosjekter som du har tilgang til.
-
-7)  Nyheter viser artikler som er publisert på prosjektområdene.
+6)  Nyheter viser artikler som er publisert på prosjektområdene.
   
-8)  I tillegg er det et område for Nyttige lenker nederst på siden. Lenker kan brukes til å peke til nyttige områder eller dokumenter som er relevante for brukere av Prosjektportalen. Lenkene vises for alle brukere     som har tilgang til porteføljenivået.
+7)  I tillegg er det et område for Nyttige lenker nederst på siden. Lenker kan brukes til å peke til nyttige områder eller dokumenter som er relevante for brukere av Prosjektportalen. Lenkene vises for alle brukere som har tilgang til porteføljenivået.
+
+
+
+## Prosjekt filtrering og detaljer om prosjekter
+
+Videre kan du filtrere på eksisterende prosjekter samt se mer detaljer om prosjektene. På prosjektkortene kan du holde muspekeren eller trykke på ikonene F-H for mer informasjon om prosjektet
+
+
+<img src = "https://raw.githubusercontent.com/Puzzlepart/prosjektportalen-manual-kladd/main/Brukermanual/3%20Portefolje//media/3 Portefoljeforside prosjektinfo.png" width ="100%" height ="50%" >
+    
+
+***A) Tilgang til***- Her vises alle prosjekter du har tilgang til (inkludert lesetilgang).
+	    
+***B) Mine prosjekter*** - Her vises alle prosjekter hvor du er medlem.
+	
+***C) Alle prosjekter*** - Her vises alle prosjekter i miljøet. Prosjekter hvor du ikke er medlem vil være grået ut, og utilgjengelig for deg.
+	
+***D) Overordnede områder*** - Viser alle overordnede områder i miljøet.
+	
+***E) Program*** - Her vises alle programområdene i miljøet.
+                      
+***F) Prosjekttype*** - Viser hvilken type prosjektet er (Standard, bygg, anlegg,..).
+	
+***G) Hurtigmeny for prosjekt*** - Hurtigmeny til forvalge områder (eks. Prosjektstatus, dokumentbibliotek, oppgaver, ..).
+	
+***H) Prosjektinformasjonspanel*** - Åpner en panel med mer informasjon om prosjektet.
+
+
+    
+    
+    
+
 
 
