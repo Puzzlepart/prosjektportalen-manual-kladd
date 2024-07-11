@@ -33,7 +33,7 @@ Prosjektet må være ferdig konfigurert for at prosjektkortet skal vises på for
 
 4)  Prosjektoversikt med mulighet for å søke på alle prosjekter i
     porteføljen som man har tilgang på. Her vises prosjektkort som
-    lenker til prosjektet og viser prosjektets fase, prosjektleder og prosjekteier. Trykk på ![](./media/3.2UtvidelseProsjektkort.png) nederst til venstre i hvert prosjektkort for å se ytterligere prosjektinformasjon.
+    lenker til prosjektet og viser prosjektets fase, prosjektleder og prosjekteier. 
     
     **A) Tilgang til** - Her vises alle prosjekter du har tilgang til (inkludert lesetilgang).
     
