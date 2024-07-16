@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Porteføljeoversikt
-nav_order: 32
+nav_order: 310
 nav_exclude: false
 has_children: false
 parent: Porteføljenivå
