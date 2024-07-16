@@ -19,7 +19,7 @@ informasjonen du trenger.
 ![](./media/31-Portefoljeoversikt.png)
 
 1. Bruk søkefeltet for å filtrere listen på ønskede nøkkelord.
-2. Trykk ![](./media/31-Portefoljeoversit-EkspTilExcel.png) for å eksportere den visningen du har valgt til et Excel-ark som automatisk lastes ned til datamaskinen din.
+2. Trykk ![](./media/EksporterTilExcel.png) for å eksportere den visningen du har valgt til et Excel-ark som automatisk lastes ned til datamaskinen din.
 3. Trykk på **Alle prosjekter** for å velge andre visninger som Porteføljestatus, Mine prosjekter og Økonomi. Her vises også eventuelle tilpassede visninger som er opprettet for denne porteføljen.
    
      **A)** Trykk på ***"Opprett ny visning"*** for å opprette ny visning.
