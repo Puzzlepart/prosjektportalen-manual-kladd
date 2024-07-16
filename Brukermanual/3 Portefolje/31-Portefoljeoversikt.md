@@ -27,7 +27,7 @@ informasjonen du trenger.
  
       ![](./media/31-Portefoljeoversit-OpprettVisnining.png)
    
-5. Trykk på ikonen ![](./media/31-Portefoljeoversit-FiltrerKnapp.png) **"Filtrer"** for å filtrere og velge flere felter å vise. Her kan du også angi et eller flere felter som du ønsker å filtrere på.
+5. Trykk på ikonen ![](./media/FiltrerKnapp.png) **"Filtrer"** for å filtrere og velge flere felter å vise. Her kan du også angi et eller flere felter som du ønsker å filtrere på.
 
   
       ![](./media/31-Portefoljeoversit-Filter.png)
