@@ -16,7 +16,7 @@ informasjonen du trenger.
 
 
 
-![](./media/3.2-Portefoljeoversikt.png)
+![](./media/31-Portefoljeoversikt.png)
 
 1. Bruk søkefeltet for å filtrere listen på ønskede nøkkelord.
 2. Trykk ![](./media/31-Portefoljeoversit-EkspTilExcel.png) for å eksportere den visningen du har valgt til et Excel-ark som automatisk lastes ned til datamaskinen din.
