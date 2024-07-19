@@ -21,7 +21,10 @@ parent: Porteføljenivå
 
 4) Med ![](./media/FiltrerKnapp.png)-knappen kan du filtrerere basert på tilgjengelige felter.
 
-5)  I denne delen finner du selve oversikten:
+5)  I denne delen finner du selve oversikten
+
+
+## Gevinstoversikt og detaljer om gevinster 
    ![](./media/39-Gevinstoversikt-Beskrivelse.png)
 
 **A)** Hver linje er en gevinst.
