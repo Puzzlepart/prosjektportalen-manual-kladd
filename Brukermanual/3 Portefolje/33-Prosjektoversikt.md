@@ -48,7 +48,7 @@ Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer
 
   **D)** Ved å trykke på ***Portefølje*** kan du bytte mellom ulike Porteføljer. Det er mulig å legge til flere Porteføljer, trykk på **Administrer porteføljer** å åpne porteføljelisten.
 
-  ![](./media/33-Prosjektoversikt-Portefolje.png) 
+  ![](./media/33-ProsjektoversiktPortefolje.png) 
   ***For å legge til ny portefølje:***
     
    ***I)  Trykk på Ny***
