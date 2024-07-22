@@ -31,7 +31,8 @@ Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer
 
 
 
-## Detaljer på punktene ovan
+## Detaljert beskrivelse av punktene ovan
+
 
 
  **A)** Gjennom at holde muspekeren over prosjektnavnet i første kolumnen får man opp mer informasjon og detaljer om prosjektet. 
@@ -55,4 +56,5 @@ Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer
     
    ***II) Trykk på **Element** og legg inn ny portefølje.***
      
-   ![](./media/33-Prosjektoversikt-NyPortefolje.png) 
+
+   <img src = "./media/33-Prosjektoversikt-NyPortefolje.png" width ="80%" height = "100%">
