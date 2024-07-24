@@ -9,6 +9,8 @@ parent: Porteføljenivå
 
 # Opprette et nytt prosjekt
 
+
+
 Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opprette nye prosjekter. 
 
 Dette gjøres ved å trykke på *Opprett område*-lenken i øvre høyre del på forsiden av Prosjektportalen:
