@@ -14,7 +14,7 @@ Det første du bør gjøre er å redigere egenskapene til prosjektet og fylle in
 
 ![](./media/41-ProsjektinfoOgFasesetting.png)
 
-![](./media/41-Prosjektinformasjon.png)
+![](./media/41-EditProsjektinformasjon.png)
 
 1) For å redigere egenskaper trykk på **Rediger prosjektinformasjon** i feltet ***Prosjektinformasjon***
    
