@@ -16,6 +16,8 @@ Trykk på **Ny** til å opprette Nye elementer/erfaringer.
 
 ## Opprette nytt loggelement 
 
+Les under bilde for beskrivelse av alle felt.
+
 ![](./media/43-Prosjektlogg-NyttElement1.png)
 ![](./media/43-Prosjektlogg-NyttElement2.png)
 
