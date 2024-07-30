@@ -10,6 +10,7 @@ parent: Prosjekt
 # Prosjektlogg
 
 Prosjektloggen brukes som et verktøy for å registrere og samle erfaringer i ett prosjekt. Lista kan knyttes opp mot prosjektleveranser, slik at man kan spore hvilke leveranser det er registrert erfaringer på.
+
 Trykk på **Ny** til å opprette Nye elementer/erfaringer. 
 
 ![](./media/43-Prosjektlogg.png)
