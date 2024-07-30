@@ -22,7 +22,7 @@ Les under bilde for beskrivelse av alle felt.
 ![](./media/43-Prosjektlogg-NyttElement1.png)
 ![](./media/43-Prosjektlogg-NyttElement2.png)
 
-1. Feltet **Tittel** er påkrevd. 
+1. Feltet **Tittel** er markert med stjerne, disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
 
 2. **Loggelement** - Det er definert 4 ulike kategorier (kalt *Loggelement* i listen)*:*
     - Kommentar/Bekymring/Hendelse
