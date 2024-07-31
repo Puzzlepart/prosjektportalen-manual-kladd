@@ -8,7 +8,6 @@ parent: Prosjekt
 ---
 
 # Usikkerhet
-
 Usikkerhetslista lar prosjektdeltagere loggføre alleusikkerhetselementer som har oppstått, eller som har risiko for å
 oppstå, i løpet av et prosjekt.
 
@@ -18,6 +17,7 @@ oppstå, i løpet av et prosjekt.
 Usikkerheter som er registrert og har status som ***Identifisert*** vil synliggjøres i Prosjektstatus under ***Risiko***
 
 ![](./media/46-Usikkerhet.png)
+
 
 
 # Opprette og legg til ny usikkerhet
