@@ -81,12 +81,22 @@ Du finner statusrapporten i venstremenyen. Når du klikker deg inn vil du se rap
 
 
 ## Prosjektdata og annet dynamisk innhold i statusrapporten
+### Fremdrift
 
 Informasjon om leveranser i prosjektet vil bli inkludert i statusrapporten dersom slike finnes.
 
 ![](./media/42-Prosjektstatus-Fremdrift.png)
 
-Risikoer vil også bli indikert i en risikomatrise dersom det er registrert risikoer i prosjektet.
 
-![](./media/42-Prosjektstatus-Risiko.png)
+
+### Risiko
+Risikoer vil også bli indikert i en risikomatrise dersom det er registrert risikoer i prosjektet. Her synliggjøres alle Usikkerheter som er registrert og har status som ***Identifisert***.
+
+  **A)** Ved å trykke på **Vis før/etter tiltak** knappen under diagrammene kan man se en visuell representasjon av risikoer før eller etter tiltak basert på informasjon skrevet inn under usikkerheter som legges in.
+
+***Risikoer før tiltak***
+![](./media/42-Prosjektstatus-Risiko-forTiltak.png)
+
+***Risikoer etter tiltak***
+![](./media/42-Prosjektstatus-Risiko-etterTiltak.png)
 
