@@ -32,16 +32,17 @@ Fyll ut feltene med relevant informasjon. Les under bilde for beskrivelse av all
    <img src = "./media/45-Kommunikasjonsplan-Fase.png" width ="40%" height = " 20%">
 
 
-4. I **Status** feltet kan du velge hvilken status kommunikasjonselementet er i fra de forhåndsdefinerte verdiene:
+3. I **Status** feltet kan du velge hvilken status kommunikasjonselementet er i fra de forhåndsdefinerte verdiene:
     - Ikke påbegynt
     - Påbegynt
     - Fullført
     - Utsatt
-5. Fyll ut hvilken kanal som brukes for **kommunikasjonsaktiviteten**
-6. **Tiltaksdato** Sett frist for når aktiviteten skal gjennomføres
-7. **Tiltaksansvarlig** - Legg in den som er ansvarlig for at aktiviteten skal gjennomføres
-8. Er det noen utfyllende **kommentar** til kommunikasjonsaktiviteten, kan den legges inn her
-9. **Målgruppe** kan hentes ut fra interessentregisteret, hvor det også ligger mer informasjon rundt interessenten. Det kan velges flere målgrupper for hvert enkelt kommunikasjonselement.
-10. **Vedlegg** kan legges til på enkelt elementer. Merk at disse vedleggene bare lagres i denne listen, og blir ikke vist i dokumentbiblioteket.
+4. Fyll ut hvilken kanal som brukes for **kommunikasjonsaktiviteten**
+5. **Tiltaksdato** Sett frist for når aktiviteten skal gjennomføres
+6. **Tiltaksansvarlig** - Legg in den som er ansvarlig for at aktiviteten skal gjennomføres
+7. Er det noen utfyllende **kommentar** til kommunikasjonsaktiviteten, kan den legges inn her
+8. **Målgruppe** kan hentes ut fra interessentregisteret, hvor det også ligger mer informasjon rundt interessenten. Det kan velges flere målgrupper for hvert enkelt kommunikasjonselement.
+9. **Vedlegg** kan legges til på enkelt elementer. Merk at disse vedleggene bare lagres i denne listen, og blir ikke vist i dokumentbiblioteket.
+10. Husk å Lagre når du er ferdig. Du kan lagre enten på toppen av eller bunn av listen.
 
 
