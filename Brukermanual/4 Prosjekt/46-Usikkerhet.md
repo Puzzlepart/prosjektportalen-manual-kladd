@@ -34,6 +34,7 @@ Fyll ut feltene med relevant informasjon. Les under bilde for beskrivelse av all
 
 1. Feltet **Tittel** er markert med stjerne, disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
 2. Usikkerheten kan knyttes opp mot en prosjektfase om ønskelig.
+   
      ***A)*** Trykk her for å få opp en liste med prosjektets fase eller skriv direkte i feltet.
 3. **Nærhet** Velg fra forhåndsdefinerte verdier når denne usikkerhet kan intreffe: 
     - Umiddelbart
