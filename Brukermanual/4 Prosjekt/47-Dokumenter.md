@@ -96,7 +96,7 @@ Du kan redigere egenskapene til et dokument. Om du ønsker å (for eksempel) end
 - Rediger i rutenettvisning
 - Elipsemenyen
 - Detaljruten
-- 
+  
 ### Rediger i rutenettvisning
   1. Trykk på **Rediger i rutenettvisning** for å gjøre endringer direkte i dokumentlisten.
   2. Gjør dine endringer i dokumentegenskapene
