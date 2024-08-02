@@ -26,17 +26,20 @@ Oppdatert hjelp og støtte om Planner finnes hos Microsoft Hjelp. Hvordan Planne
 
 ## Oppgaver på prosjektets hjemmeside
 
-På prosjektets hjemme side er det lagt inn en komponent som viser status på oppgavene i prosjektet. Denne komponenten kan stilles inn til ulike visninger, for å tilfredsstille behov i hvert enkelt prosjekt.
+På prosjektets hjemme side er det lagt inn en komponent som viser status på oppgavene i prosjektet. Denne komponenten kan stilles inn til ulike visninger, for å tilfredsstille behov i hvert enkelt prosjekt. 
 
-For å stille om til en annen visning:
+**A)** Velg Rediger på prosjektets startside for å stille om til en annen visning
 
-  - Velg Rediger på prosjektets startside
-  - Marker komponenten
-  - Velg «Rediger nettdel» (blyantsymbolet)
-  - Velg ønsket visning
-  - Avslutt med «Publiser på nytt» på siden
+![](./media/48-Oppgaver.png)
 
-![](./media/image69.png)
+I redigeringsmodus:
+  1. Marker komponenten
+  2. Velg «Rediger nettdel» (blyantsymbolet)
+  3. Velg ønsket visning
+  4. Avslutt med «Publiser på nytt» på siden
+
+![](./media/48-Oppgaver-Visninger.png)
+
 
 Alle oppgavene og detaljer rundt disse finner du på prosjektets oppgave side i venstremenyen. I Prosjektportalen 365 kan oppgaver også håndteres i Microsoft Planner.
 
@@ -45,7 +48,7 @@ Alle oppgavene og detaljer rundt disse finner du på prosjektets oppgave side i 
 På prosjektets oppgaveside vil du kunne bearbeide alle oppgaver i
 prosjektet.
 
-![](./media/image70.png)
+![](./media/48-Oppgaver-Meny.png)
 
 Typiske aktiviteter når du arbeider med oppgaver er
 
@@ -56,19 +59,24 @@ Typiske aktiviteter når du arbeider med oppgaver er
 
 Du kan også betjene visningsområdet på siden med funksjonene:
 
-  - Filter – Velg et filter du ønsker å benytte deg av. Her kan du velge blant fritekst, forfaller, etikett, samling eller
-    tildelt.
-  - Gruppert etter – Her kan du velge hvilken gruppering du ønsker
+5. Filter – Velg et filter du ønsker å benytte deg av. Her kan du velge blant annet mellom forfaller, prioritet, etikett, eller samling 
+6. Gruppert etter – Her kan du velge hvilken gruppering du ønsker
+
+![](./media/48-Oppgaver-FilterogGrupper.png)
+
 
 ## Oppbygning av oppgaver i Microsoft Planner
 
-![](./media/image71.png)
+På Oppgavesiden i venstremenyen, kan du vege en oppgave da åpnes oppgaven opp. 
+![](./media/48-Oppgaver-oppbyggning.png)
 
 1.  **Tilordne** – Her legger du inn navnet på den eller de som er ansvarlig for oppgaven (kan være flere personer om ønskelig)
-2.  **Samling** – Med dette feltet kan du kategorisere oppgaver, for eksempel etter fase.
-3.  **Fremdrift** – Angivelse av fremdriftsstatus på oppgaven
-4.  **Sjekkliste** – Kan benyttes til deloppgaver
-5.  **Etiketter** – Etiketter kan benyttes til å markere enkeltoppgaver med farge/kode (kan benyttes til gruppering)
-6.  **Kommentar** – Dette er en logg for den enkelte saken, hvor de som har saken tilordnet seg vil bli varslet pr epost når du trykker *Send* 
-7.  **Startdato** – Planlagt tidspunkt for oppstart 
-8. **Forfallsdato** – Dato når oppgaven skal være løst
+2.  **Etiketter** – Etiketter kan benyttes til å markere enkeltoppgaver med farge/kode (kan benyttes til gruppering)
+3.  **Samling** – Med dette feltet kan du kategorisere oppgaver, for eksempel etter fase.
+4.  **Fremdrift** – Angivelse av fremdriftsstatus på oppgaven 
+5.  **Prioritet** - Du kan sette opp prioritet på oppgaven
+6.  **Startdato** og **Forfallsdato** – Planlagt tidspunkt for oppstart og dato når oppgaven skal være løst
+7.  **Sjekkliste** – Kan benyttes til deloppgaver
+8.  **Kommentar** – Dette er en logg for den enkelte saken, hvor de som har saken tilordnet seg vil bli varslet pr epost når du trykker ***Send***
+
+
