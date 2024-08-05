@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Notatblokk
-nav_order: 50
+nav_order: 500
 nav_exclude: false
 has_children: false
 parent: Prosjekt
