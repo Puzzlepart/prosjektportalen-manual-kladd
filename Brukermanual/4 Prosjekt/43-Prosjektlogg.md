@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prosjektlogg
-nav_order: 43
+nav_order: 430
 nav_exclude: false
 has_children: false
 parent: Prosjekt
