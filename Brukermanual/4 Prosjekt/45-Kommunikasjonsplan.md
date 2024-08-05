@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kommunikasjonsplan
-nav_order: 45
+nav_order: 450
 nav_exclude: false
 has_children: false
 parent: Prosjekt
