@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oppgaver
-nav_order: 48
+nav_order: 480
 nav_exclude: false
 has_children: false
 parent: Prosjekt
