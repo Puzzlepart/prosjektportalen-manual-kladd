@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prosjektinformasjon, fasesetting og overordnet område
-nav_order: 41
+nav_order: 410
 nav_exclude: false
 has_children: false
 parent: Prosjekt
