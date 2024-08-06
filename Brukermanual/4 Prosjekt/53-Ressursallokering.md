@@ -15,7 +15,7 @@ Bilde viser et eksempel på en liste med Ressursallokering i et prosjekt.
 
 Trykk på **Ny** for å legge in ny ressurs/element.
 
-![](./media/Ressursallokering.png)
+![](./media/53-Ressursallokering.png)
 
 ## Opprette nytt element i ressursliste
 Fyll ut feltene med relevant informasjon. 
@@ -27,7 +27,7 @@ Alle felt markert med rød stjerne er obligatoriske å fylle ut og du får ikke 
 
 Les under bilde for beskrivelse av alle felt.
 
-![](./media/RessursallokeringNy1.png)
+![](./media/53-RessursallokeringNy.png)
 
 1. Oppgi ressursens navn i dette feltet
 2. Hver enkelt prosjektdeltager registreres med tiltenkt **Rolle**. Denne rollelisten er administrert som et forvaltet termsett, og vil være felles for alle prosjekter i en installasjon av Prosjektportalen.
