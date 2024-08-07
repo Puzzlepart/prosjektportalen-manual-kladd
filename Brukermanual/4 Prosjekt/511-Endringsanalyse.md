@@ -19,4 +19,3 @@ Fyll ut feltene med relevant informasjon. Legg merke til at noen av feltene har 
 2. **Vedlegg** kan legges til på enkelt elementer. Merk at disse vedleggene bare lagres i denne listen, og blir ikke vist i dokumentbiblioteket.
 3. Husk å **Lagre** når du er ferdig. Du kan lagre enten på toppen av eller bunn av listen.
 
-
