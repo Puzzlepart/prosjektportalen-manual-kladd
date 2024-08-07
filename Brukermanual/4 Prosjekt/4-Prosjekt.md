@@ -19,6 +19,9 @@ Før egenskaper for prosjektet er fylt ut, vil forsiden se ut som bildet under. 
 ![](./media/4-Prosjektomrade.png)
 ![](./media/4-Prosjektomrade_MoteDokTeam.png)
 
+![](./media/4-Prosjektomrade2.png)
+![](./media/4-Prosjektomrade_MoteDokTeam2.png)
+
 1.  **Porteføljemenyen** vil til enhver tid kunne føre deg til valgt side på porteføljenivået.
 
 2.  **Områdeikonet** peker tilbake til forsiden av prosjektområdet. Ikonet kan endres for hvert prosjekt, se kapittel 2.6 for instruksjoner om hvordan dette gjøres.
