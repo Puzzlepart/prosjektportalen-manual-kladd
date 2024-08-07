@@ -13,7 +13,6 @@ Her kan du redigere og legge til nye elementer. Dette vil synkroniseres til list
 
 For å zoome inn/ut i tidslinje bildet bruk **ALT+Musehjul**
 
-
 <img src = "./media/54-prosjekttidslinje.png" width ="90%" height = "%">
 
 
