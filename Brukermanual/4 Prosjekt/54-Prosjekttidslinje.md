@@ -11,11 +11,14 @@ parent: Prosjekt
 Her listes listeelementene for prosjektet i en visuell visning. 
 Her kan du redigere og legge til nye elementer. Dette vil synkroniseres til listen på hubområdet. 
 
-For å zoome inn/ut i tidslinje bruk **ALT+Musehjul**
+For å zoome inn/ut i tidslinje bildet bruk **ALT+Musehjul**
 ![](./media/54-prosjekttidslinje.png) 
 
+
+
 ## Rediger
-![](./media/54-prosjekttidslinjeRediger.png)
+![](./media/54-prosjekttidslinjeRediger1.png)
+![](./media/54-prosjekttidslinjeRediger2.png)
 1. Visningen kan redigeres for visning gjennom å trykke på Rediger. Da åpnes en panel på høyre siden.
 2. Her kan du velge å vise frem prosjektleveranser gjennom å velge "På/Av" på bryteren.
 
@@ -33,7 +36,7 @@ For å zoome inn/ut i tidslinje bruk **ALT+Musehjul**
     - Underordnet
       
 ## Redigere eksisterende element 
-![](./media/54-prosjekttidslinjeRediger2.png)
+![](./media/54-prosjekttidslinjeRediger3.png)
 1. Marker elementet du vil redigere.
 2. Trykk på rediger og en panel åpnes på høyre siden og du kan enkelt redigere elementet. 
 3. Trykk på **SLett** for å slette elementet fra listen.
