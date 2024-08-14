@@ -12,6 +12,8 @@ grand_parent: Prosjekt
 
 Endringsanalyse er et verktøy for å analysere endringer i prosesser. Dette brukes til å identifisere og kartlegge gevinster i gevinstanalyse og gevinstrealiseringsplan.
 
+Les under bilde for mer informasjon om opprettelse av ny **Endring**
+
 ![](./media/511-Endringsanalyse.png)
 
 Fyll ut feltene med relevant informasjon. Legg merke til at noen av feltene har en stjerne ved navnet. Disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
