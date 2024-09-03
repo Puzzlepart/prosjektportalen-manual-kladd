@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Erfaringslogg
-nav_order: 380
+nav_order: 350
 nav_exclude: false
 has_children: false
 parent: Porteføljenivå
@@ -16,13 +16,13 @@ prosjektene har valgt å publisere erfaringen til erfaringsloggen.
 
 
 
-![](./media/38-Erfaringslogg.png)
+![](./media/35-Erfaringslogg.png)
 
 1) Bruk søkefeltet for å finne erfaringer på bakgrunn av alle tilgjengelige felter.
 2) ![](./media/EksporterTilExcel.png) - Knappen benyttes for å eksportere listen til Excel. Hvis du har filtrert listen for å se på spesifikke prosjekter, er det kun de du ser som vil bli eksportert ut. Pass derfor på at eventuell filtrering er i tråd med det du ønsker å eksportere, og tilbakestill filtre om du ønsker å eksportere en oversikt over samtlige prosjekt.
 3) Her kan du velge mellom eksisterende visninger, editere visning og **Oprette nye visning**
 
-   ![](./media/38-Erfaringslogg-OpprettNyVisning.png) 
+   ![](./media/35-Erfaringslogg-OpprettNyVisning.png) 
 
 
 4) Med ![](./media/FiltrerKnapp.png)-knappen kan du filtrerere basert på tilgjengelige felter.
