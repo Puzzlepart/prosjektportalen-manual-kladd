@@ -42,7 +42,7 @@ Rapporten innholder felt som har forskjellige verdier som:
     - **Status fremdrift**
     - **Status Økonomi**
     - **Status kvalitet**
-    - **Status risiko** [(mer informasjon om rapporten under Usikkerhet)](./4.4.5%20Usikkerhet.html)
+    - **Status risiko** [(mer informasjon om rapporten under Usikkerhet)](./46-Usikkerhet.html)
     - **Status muligheter**
     - **Status gevinstoppnåelse**
   
