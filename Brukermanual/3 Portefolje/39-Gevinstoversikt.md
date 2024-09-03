@@ -10,13 +10,13 @@ parent: Porteføljenivå
 # Gevinstoversikt
 
 
-![](./media/39-Gevinstoversikt.png)
+![](./media/34-Gevinstoversikt.png)
 
 1) Bruk søkefeltet for å finne gevinster på bakgrunn av alle tilgjengelige felter.
 2) ![](./media/EksporterTilExcel.png) - Knappen benyttes for å eksportere listen til Excel. Hvis du har filtrert listen for å se på spesifikke prosjekter, er det kun de du ser som vil bli eksportert ut. Pass derfor på at eventuell filtrering er i tråd med det du ønsker å eksportere, og tilbakestill filtre om du ønsker å eksportere en oversikt over samtlige prosjekt.
 3) Her kan du velge mellom eksisterende visninger, editere visning og **Oprette nye visning**
 
-   ![](./media/39-Gevinstoversikt-OpprettNyVisning.png) 
+   ![](./media/34-Gevinstoversikt-OpprettNyVisning.png) 
 
 
 4) Med ![](./media/FiltrerKnapp.png)-knappen kan du filtrerere basert på tilgjengelige felter.
@@ -25,7 +25,7 @@ parent: Porteføljenivå
 
 
 ## Gevinstoversikt og detaljer om gevinster 
-   ![](./media/39-Gevinstoversikt-Beskrivelse.png)
+   ![](./media/34-Gevinstoversikt-Beskrivelse.png)
 
 **A)** Hver linje er en gevinst.
 
@@ -40,7 +40,10 @@ parent: Porteføljenivå
 
 **F)** Helt til høyre på hver enkelt gevinstlinje kan du velge å vise målingene som ligger til grunn på den enkelte gevinst
 
-<img src = "https://raw.githubusercontent.com/Puzzlepart/prosjektportalen-manual-kladd/main/Brukermanual/3%20Portefolje//media/39-Gevinstoversikt-Målinger.png" width ="70%" height ="50%" > 
+<img src = "./media/34-Gevinstoversikt-Målinger.png" width ="70%" height ="50%">
+
+
+
 
 
 
