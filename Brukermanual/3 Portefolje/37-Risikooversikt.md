@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Usikkerhetsoversikt
-nav_order: 360
+nav_order: 370
 nav_exclude: false
 has_children: false
 parent: Porteføljenivå
@@ -11,7 +11,7 @@ parent: Porteføljenivå
 
 Usikkerhetsoversikten viser usikkerheter (det vil si risikoer og muligheter) som er valgt for visning på porteføljenivå i prosjektene. Du ser bare usikkerheter fra de prosjektene som du har tilgang til.
 
-![](./media/36-Usikkerhetsoversikt.png)
+![](./media/37-Usikkerhetsoversikt.png)
 
 1. Bruk søkefeltet for å finne usikkerhetselementer på bakgrunn av alle tilgjengelige felter.
    
@@ -19,7 +19,7 @@ Usikkerhetsoversikten viser usikkerheter (det vil si risikoer og muligheter) som
 
 3. Her kan du velge mellom eksisterende visninger, editere visning og **Oprette ny visning**
    
-   ![](./media/36-Usikkerhetsoversikt-OpprettNyVisning.png)
+   ![](./media/37-Usikkerhetsoversikt-OpprettNyVisning.png)
    
 4. Med ![](./media/FiltrerKnapp.png)-knappen kan du filtrerere basert på tilgjengelige felter.
 
