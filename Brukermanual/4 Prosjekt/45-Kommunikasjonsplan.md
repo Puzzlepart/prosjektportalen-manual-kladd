@@ -16,7 +16,6 @@ Trykk på **Ny** til å opprette ny kommunikasjonselement.
 ![](./media/45-Kommunikasjonsplan.png)
 
 
-
 ## Opprette nytt komunikasjonselement
 
 Fyll ut feltene med relevant informasjon. Les under bilde for beskrivelse av alle felt.
@@ -29,8 +28,7 @@ Fyll ut feltene med relevant informasjon. Les under bilde for beskrivelse av all
    
      **A)** Klikk her for å få opp en ny sidepanel og liste med mulige faser å velge mellom og knytte til.
    
-   <img src = "./media/45-Kommunikasjonsplan-Fase.png" width ="40%" height = "20%">
-
+<img src = "./media/45-Kommunikasjonsplan-Fase.png" width ="40%" height = "20%">
 
 
 3. I **Status** feltet kan du velge hvilken status kommunikasjonselementet er i fra de forhåndsdefinerte verdiene:
