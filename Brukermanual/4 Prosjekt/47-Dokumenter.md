@@ -112,7 +112,7 @@ Du kan redigere egenskapene til et dokument. Om du ønsker å (for eksempel) end
       
  <img src = "./media/47-Dokumenter-Elipsemeny.png" width ="70%" height = "50%">
  
-#### Detaljruten
+### Detaljruten
   1. Marker dokumentet du vil endre egenskaper på
   2. Trykk på "Detalj"-knappen
   3. En panel åpnes på høyre siden og du kan redigere egenskapene for dokumentet
