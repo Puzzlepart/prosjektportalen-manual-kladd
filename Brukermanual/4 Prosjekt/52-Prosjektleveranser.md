@@ -17,6 +17,7 @@ Trykk på **Ny** til å opprette Nye elementer/erfaringer.
 ## Legge til ny leveranse/element
 
 Fyll inn skjemaet i henhold til leveransen og med relevant informasjon. Les under bilde for beskrivelse av alle felt.
+
 ![](./media/52-ProsjektleveranserNy1.png)
 ![](./media/52-ProsjektleveranserNy2.png)
 ![](./media/52-ProsjektleveranserNy2.png)
