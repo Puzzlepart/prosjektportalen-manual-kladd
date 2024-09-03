@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gevinstoversikt
-nav_order: 390
+nav_order: 340
 nav_exclude: false
 has_children: false
 parent: Porteføljenivå
