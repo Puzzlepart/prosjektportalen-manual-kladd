@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prosjekttidslinje
-nav_order: 340
+nav_order: 390
 nav_exclude: false
 has_children: false
 parent: Porteføljenivå
@@ -11,7 +11,7 @@ parent: Porteføljenivå
 
 Prosjekttidslinjen viser tidslinjeelementer fra alle prosjekter. Du vil kunne se elementer fra alle prosjekter.
 
-![](./media/34-Prosjekttidslinje.png)
+![](./media/39-Prosjekttidslinje.png)
 
 
 1. Trykk på ![](./media/FiltrerKnapp.png) for å filtrere på de tilgjengelige feltene.
