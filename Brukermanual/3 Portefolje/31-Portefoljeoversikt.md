@@ -23,7 +23,7 @@ informasjonen du trenger.
 3. Trykk på **Alle prosjekter** for å velge andre visninger som Porteføljestatus, Mine prosjekter og Økonomi. Her vises også eventuelle tilpassede visninger som er opprettet for denne porteføljen.
    
      **A)** Trykk på ***"Opprett ny visning"*** for å opprette ny visning.
-     Rettighet til å opprette nye visninger er styrt på listenivå. Listen er tilgjengelig gjennom konfigurasjons-siden for Prosjektportalen 365.***
+     Rettighet til å opprette nye visninger er styrt på listenivå. Listen er tilgjengelig gjennom konfigurasjons-siden for Prosjektportalen 365.
  
       ![](./media/31-Portefoljeoversit-OpprettVisnining.png)
    
