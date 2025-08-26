@@ -33,7 +33,7 @@ Prosjektet må være ferdig konfigurert for at prosjektkortet skal vises på for
 
 4)  Prosjektoversikt med mulighet for å søke på alle prosjekter i
     porteføljen som man har tilgang på. Her vises prosjektkort som
-    lenker til prosjektet og viser prosjektets fase, prosjektleder og prosjekteier. 
+    lenker til prosjektet og viser prosjektets Tjenesteområde (hvis oppgitt), Prosjekttype, prosjektleder og prosjekteier. 
 
 5)  Siste prosjekter gir oversikt over de siste prosjektene som er blitt opprettet i Prosjektportalen. Du ser bare prosjekter som du har tilgang til.
 
@@ -64,11 +64,15 @@ Videre kan du filtrere på eksisterende prosjekter samt se mer detaljer om prosj
 	
 ***E) Program*** - Her vises alle programområdene i miljøet.
                       
-***F) Prosjekttype*** - Viser hvilken type prosjektet er (Standard, bygg, anlegg,..).
+***F) Prosjektmaltype*** - Viser hvilken type mal som er brukt for prosjektet (Standard, bygg, anlegg,..).
 	
 ***G) Hurtigmeny for prosjekt*** - Hurtigmeny til forvalge områder (eks. Prosjektstatus, dokumentbibliotek, oppgaver, ..).
 	
 ***H) Prosjektinformasjonspanel*** - Åpner en panel med mer informasjon om prosjektet.
+
+***I) Tjenesteområde*** - Hvis tjenesteområde er oppgitt blir det viset frem her.
+
+***J) Prosjekttype*** - Oppgir hvilken type prosjekt det er (bygg, anlegg, IKT, ...).
 
 
     
