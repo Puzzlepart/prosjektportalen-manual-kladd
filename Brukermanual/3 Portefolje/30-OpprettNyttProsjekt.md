@@ -21,19 +21,19 @@ Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opp
 
 4. I neste steg får du ser en preview a malen
 5. Velg "Use template" for å gå videre
-<img src = "./media/30-VelgMal.png" width ="40%" height = "40%">   
+ <img src = "./media/30-VelgMal.png" width ="40%" height = "40%">   
 
 6. Gi ditt prosjekt (området) et navn
 **A)** Verifiser at "Områdenavnet" er tilgjengelig
 **B)** Verifiser at gruppealiaset er tilgjengelig
 <img src = "./media/30-Sitenavn.png" width ="40%" height = "40%">   <img src = "./media/30-Sitenavn2.png" width ="40%" height = "40%">
 
-7. Tilgangsinnstilling settes til enten privat (forhåndsvalg) eller offentlig.
-8. Språk må settes til «Norsk» da dette er eneste språk som er støttet i nåværende utgave av Prosjektportalen. Velg deretter "Opprett site" for å gå videre.
-9. Du kan velge å legge til medlemmer i denne fasen, eller gjøre det etter at prosjektet er opprettet. Velg Ferdig.
+8. Tilgangsinnstilling settes til enten privat (forhåndsvalg) eller offentlig.
+9. Språk må settes til «Norsk» da dette er eneste språk som er støttet i nåværende utgave av Prosjektportalen. Velg deretter "Opprett site" for å gå videre.
+10. Du kan velge å legge til medlemmer i denne fasen, eller gjøre det etter at prosjektet er opprettet. Velg Ferdig.
 <img src = "./media/30-Sitetilgang.png" width ="40%" height = "40%">   <img src = "./media/30-Ferdigstill.png" width ="40%" height = "40%">
  
-10. Prosjektområdet blir opprettet. I denne steg kan du velge å sette opp området med standard innhold eller velge å legge til "Prosjektillegg" og "Standardinnhold" utover det som ligger som standard i malen. Velg deretter "Sett opp område".
+11. Prosjektområdet blir opprettet. I denne steg kan du velge å sette opp området med standard innhold eller velge å legge til "Prosjektillegg" og "Standardinnhold" utover det som ligger som standard i malen. Velg deretter "Sett opp område".
 ![](./media/30-SiteOppsett.png)
 
 
