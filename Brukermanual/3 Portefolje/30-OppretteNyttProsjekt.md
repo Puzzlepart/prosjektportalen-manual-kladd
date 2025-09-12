@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Opprette nytt prosjekt
-nav_order: 392
+nav_order: 30
 nav_exclude: false
 has_children: false
 parent: Porteføljenivå
