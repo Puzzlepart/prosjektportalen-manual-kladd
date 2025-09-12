@@ -18,7 +18,7 @@ Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opp
 
 Dette starter en prosess som bør utføres på følgende måte:
 3. PÅ neste bild under fanen "Fra Microsoft" Velger du "Standard Team" 
-  ![](./media/30-StandardTeam.png)
+  <img src = "./media/30-StandardTeam.png" width ="80%" height = "80%">  
 
 4. I neste steg får du ser en preview a malen
 5. Velg "Use template" for å gå videre
