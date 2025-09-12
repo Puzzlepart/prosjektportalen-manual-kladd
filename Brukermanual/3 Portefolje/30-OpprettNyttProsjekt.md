@@ -13,12 +13,11 @@ parent: Porteføljenivå
 
 Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opprette nye prosjekter. 
 1. Dette gjøres ved å trykke på *Opprett område*-lenken i øvre høyre del på forsiden av Prosjektportalen. 
-2. Velg og opprette et "Gruppenettsted/Teamsite" ved å trykke på boksen til venstre.  
-![](./media/30-OpprettProsjekt.png)
+2. Velg og opprette et "Gruppenettsted/Teamsite" ved å trykke på boksen til venstre.
+   <img src = "./media/30-OpprettProsjekt.png" width ="80%" height = "80%"> 
 
-Dette starter en prosess som bør utføres på følgende måte:
-3. PÅ neste bild under fanen "Fra Microsoft" Velger du "Standard Team" 
-  <img src = "./media/30-StandardTeam.png" width ="80%" height = "80%">  
+3. Dette starter en prosess som bør utføres på som beskervet her under. På neste bild under fanen "Fra Microsoft" Velger du "Standard Team"
+   <img src = "./media/30-StandardTeam.png" width ="80%" height = "80%">
 
 4. I neste steg får du ser en preview a malen
 5. Velg "Use template" for å gå videre
