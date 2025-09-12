@@ -18,7 +18,7 @@ Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opp
 
 Dette starter en prosess som bør utføres på følgende måte:
 3. PÅ neste bild under fanen "Fra Microsoft" Velger du "Standard Team" 
-![](./media/30-StandardTeam.png)
+  ![](./media/30-StandardTeam.png)
 
 4. I neste steg får du ser en preview a malen
 5. Velg "Use template" for å gå videre
@@ -27,7 +27,6 @@ Dette starter en prosess som bør utføres på følgende måte:
 6. Gi ditt prosjekt (området) et navn
 **A)** Verifiser at "Områdenavnet" er tilgjengelig
 **B)** Verifiser at gruppealiaset er tilgjengelig
-![](./media/30-Sitenavn2.png)
 <img src = "./media/30-Sitenavn.png" width ="40%" height = "40%">   <img src = "./media/30-Sitenavn2.png" width ="40%" height = "40%">
 
 7. Tilgangsinnstilling settes til enten privat (forhåndsvalg) eller offentlig.
