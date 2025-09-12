@@ -34,8 +34,7 @@ Dette starter en prosess som bør utføres på følgende måte:
 
 <img src = "https://raw.githubusercontent.com/Puzzlepart/prosjektportalen-manual-kladd/main/Brukermanual/3%20Portefolje//media/30-Velgmal.png" width ="100%" height ="50%" ><img src = "https://raw.githubusercontent.com/Puzzlepart/prosjektportalen-manual-kladd/main/Brukermanual/3%20Portefolje//media/30-Sitenavn.png" width ="100%" height ="50%" >
 
-<img src = "./media/30-VelgMal.png" width ="50%" height = "50%">
-<img src = "./media/30-Sitenavn.png" width ="50%" height = "50%">
+<img src = "./media/30-VelgMal.png" width ="50%" height = "50%"><img src = "./media/30-Sitenavn.png" width ="50%" height = "50%">
 
 
 
