@@ -9,13 +9,17 @@ parent: Porteføljenivå
 
 # Opprette et nytt prosjekt
 
-Bild 1
+
 
 Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opprette nye prosjekter. 
-1. Dette gjøres ved å trykke på *Opprett område*-lenken i øvre høyre del på forsiden av Prosjektportalen. Dette starter et prosess
-2. Velg og opprette et "Teamsite" ved å trykke på boksen til venstre
+1. Dette gjøres ved å trykke på *Opprett område*-lenken i øvre høyre del på forsiden av Prosjektportalen. 
+2. Velg og opprette et "Gruppenettsted/Teamsite" ved å trykke på boksen til venstre
+![](./media/30-OpprettProsjekt.png)
 
-Bild 2
+3. PÅ neste bild velger du mal fra organisasjonen din og velger "Prosjektområde".
+   Dette starter et prosess
+4. Velg å bruke malen i neste steg
+5. 
 Første oppsett av prosjektet gjøres ved å velge utformingen «Prosjektområde»
 3. Velg "Standard team" som mal for opprettelse av nye prosjekt området
 
