@@ -40,7 +40,23 @@ Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opp
 
 <img src = "./media/30-Sitetilgang.png" width ="40%" height = "40%">   <img src = "./media/30-Ferdigstill.png" width ="40%" height = "40%">
  
-10. Prosjektområdet blir opprettet. I denne steg kan du velge å sette opp området med standard innhold eller velge å legge til "Prosjektillegg" og "Standardinnhold" utover det som ligger som standard i malen. Velg deretter "Sett opp område".
+10. Prosjektområdet blir opprettet og du vil nå bli videresendt til det nye prosjektområdet.
+Det første du trenger å gjøre er å sette opp området med ønsket innhold.
+Alle muligheter gjøres tilgjengelig på de 3 sidene:
+**A**)Prosjektmal
+**B**)Prosjekttillegg
+**C**) Standardinnhold
+Hva som skal ligge tilgjengelig på disse sidene er styrt av porteføljeadministrator. Videre følger en forklaring på hva du kan tilgjengeliggjøre i det nye prosjektet.
 ![](./media/30-SiteOppsett.png)
+**A)Prosjektmal** - På denne siden velger du hvilken mal prosjektet skal settes opp etter. Her kan du velge mellom de ulike prosjektmalene som er installert.
+**B)Prosjekttillegg** - Her velger du hvilke tillegg som du ønsker med i dette prosjektet.
+**C) Standardinnhold** - Standardinnhold er faktiske data som man kan legges til i de enkelte lister og biblioteker som finnes på prosjektområdet.
+![](./media/30-SiteOppsett.png)
+
+Etter at alle valg er gjort, velger du «Sett opp området» nederst på siden. Prosjektområdet vil bli fylt opp med innhold og data i henhold til de valgene som er gjort.
+t\du  I denne steg kan du velge å sette opp området med standard innhold eller velge å legge til "Prosjektillegg" og "Standardinnhold" utover det som ligger som standard i malen. Velg deretter "Sett opp område".
+![](./media/30-Prosjektmal.png)
+![](./media/30-Prosjettillegg.png)
+![](./media/30-Standardinnhold.png)
 
 
