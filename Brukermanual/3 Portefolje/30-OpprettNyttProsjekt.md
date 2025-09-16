@@ -27,8 +27,8 @@ Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opp
  <img src = "./media/30-VelgMal.png" width ="40%" height = "40%">   
 
 6. Gi ditt prosjekt (området) et navn
-**A)** Verifiser at "Områdenavnet" er tilgjengelig
-**B)** Verifiser at gruppealiaset er tilgjengelig
+   **A)** Verifiser at "Områdenavnet" er tilgjengelig
+   **B)** Verifiser at gruppealiaset er tilgjengelig
 
 <img src = "./media/30-Sitenavn.png" width ="40%" height = "40%">   <img src = "./media/30-Sitenavn2.png" width ="40%" height = "40%">
 
