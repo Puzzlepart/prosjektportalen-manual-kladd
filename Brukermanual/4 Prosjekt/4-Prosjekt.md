@@ -33,9 +33,9 @@ Før egenskaper for prosjektet er fylt ut, vil forsiden se ut som bildet under. 
 
 5.  **Oppgaver** viser en oversikt over alle prosjektoppgaver som ligger i Planner. Ved å redigere forsiden, kan du også endre hvilken visning du ønsker på dette feltet.
 
-6.  **Prosjektinformasjon** legges nøkkelinformasjon om prosjektet. Før dette har blitt satt vil det være en påminnelse i rød skrift om at dette er noe som bør gjøres snarest mulig. Informasjon som legges inn her, blir også synlig på porteføljenivå. Du kan også endre tittel, beskrivelse og logo (områdeikon) for prosjektet i dette feltet.
+6.  **Prosjektinformasjon** innholder nøkkelinformasjon om prosjektet. Informasjon som legges inn her, blir også synlig på porteføljenivå. Du kan også endre tittel og beskrivelse for prosjektet i dette feltet.
 
-7.  **Prosjektnyheter** fungerer som prosjektets informasjonskanal. Her kan deltagere poste korte meldinger til hverandre eller til rommet generelt. Man kan også legge inn generelle lenker til både internt og eksternt materiell.
+7.  **Prosjektnyheter** fungerer som prosjektets informasjonskanal. Prosjektnyheter som publeseres i prosjektet blir aggregert opp og vises på porteføljenivå. 
 
 8.  **Møter og hendelser** vil vise de hendelser som er lagt inn i gruppekalenderen i Outlook.
 
