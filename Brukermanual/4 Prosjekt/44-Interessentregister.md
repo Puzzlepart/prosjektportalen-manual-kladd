@@ -12,7 +12,7 @@ parent: Prosjekt
 Interessentregisteret brukes til å organisere og dokumentere
 interessenter som påvirkes av, eller som kan påvirke, prosjektet.
 
-Trykk på **Ny** til å opprette ny intressentregister.
+Trykk på **Legg til nytt element** for å opprette ny intressentregister.
 
 ![](./media/44-Intressentregister.png)
 
@@ -38,11 +38,11 @@ Fyll ut feltene med relevant informasjon. Les under bilde for beskrivelse av all
 3. **Arena/Møtepalss/Nettverk** - Oppgi hvor og i hvilken arena denne gruppen treffes
 4. **Plan/Strategi/Prosjekt** - Oppgi hva planen/strategien er for denne intressenten
 5. **Intresse** -  Beskriv vilken intresse intressentgruppen har overfor prosjektet
-6. **Påvirkes i hvilken grad** - Denne felt har forhåndsdefinerte verdier og du kan velge i hvilken gra intressentgruppen påvirkes av prosjektet
+6. **Påvirkes i hvilken grad** - Denne felt har forhåndsdefinerte verdier og du kan velge i hvilken grad intressentgruppen påvirkes av prosjektet
 7. **Mulighet til påvirkning** - Denne felt har forhåndsdefinerte verdier og du kan velge i hvilken grad intressentgruppen har mulighet å påvirke prosjektet.
 8. **Tiltak** - her kan du beskrive hvilke tiltak som kan brukes for at kunne oppnå støtte og få med seg intressenten og redusere motstand oh hinder
 9. **Vedlegg** kan legges til på enkelt elementer. Merk at disse vedleggene bare vil bli lagret i denne listen, og blir ikke vist i dokumentbiblioteket.
-10. Husk å **Lagre** når du er ferdig. Du kan lagre enten på toppen av eller bunn av listen. 
+10. Husk å **Lagre** når du er ferdig i bunn av listen. 
 
 I noen tilfeller vil det være en standardliste med interessenter som er relevante for de fleste prosjekter. Disse kan vedlikeholdes på porteføljenivå og genereres ved opprettelse i nye prosjekter.
 
