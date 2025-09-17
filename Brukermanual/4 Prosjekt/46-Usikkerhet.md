@@ -8,11 +8,11 @@ parent: Prosjekt
 ---
 
 # Usikkerhet
-Usikkerhetslista lar prosjektdeltagere loggføre alleusikkerhetselementer som har oppstått, eller som har risiko for å
+1. Usikkerhetslista lar prosjektdeltagere loggføre alle usikkerhetselementer som har oppstått, eller som har risiko for å
 oppstå, i løpet av et prosjekt.
 
-1. Ved å trykke på **Usikkerhet** i venstremenyen ser du alle usikkerheter, uavhengig av fase.
-2. Usikkerheter kan registreres som ***Mulighet*** eller ***Risiko*** og knyttes til fase i prosjektet.
+2. Ved å trykke på **Usikkerhet** i venstremenyen ser du alle usikkerheter, uavhengig av fase.
+   Usikkerheter kan registreres som ***Mulighet*** eller ***Risiko*** og knyttes til fase i prosjektet.
 
 Usikkerheter som er registrert og har status som ***Identifisert*** vil synliggjøres i Prosjektstatus under ***Risiko***
 
@@ -54,7 +54,7 @@ Fyll ut feltene med relevant informasjon. Les under bilde for beskrivelse av all
 6. **Status usikkerhet** - Hviken status har usikkerheten nå
 7. Gjennom å velge ***Ja*** i **Vis i portefølje** muliggjør å vise den aktuelle risikoen i Risikooversikten på Porteføljenivå.
 8. **Vedlegg** kan legges til på enkelt elementer. Merk at disse vedleggene bare lagres i denne listen, og blir ikke vist i dokumentbiblioteket.
-9. Husk å **Lagre** når du er ferdig. Du kan lagre enten på toppen av eller bunn av listen.
+9. Husk å **Lagre** når du er ferdig. Du kan lagre enten på toppen eller bunn av listen.
 
 
 
