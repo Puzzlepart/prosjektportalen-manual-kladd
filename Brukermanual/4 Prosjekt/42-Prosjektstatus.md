@@ -27,16 +27,14 @@ Alle felter som er markert med en stjerne må være utfylt for at du skal få la
 ![](./media/42-NyStatus.png)
 
 Rapporten innholder felt som har forskjellige verdier som:
-1. Fritekstverdier som **Overordnet status** og ale **Kommentar**-felt som tilhører statusfeltene
-2. Tallverdier - På disse felt kan du skrive inn tall direkte ller velge pilene for å legge inn verdier. Dette gjelder disse felt:
+1. Fritekstverdier som **Overordnet status** og alle **Kommentar**-felt som tilhører statusfeltene
+2. Tallverdier - På disse felt kan du skrive inn tall direkte eller velge pilene for å legge inn verdier. Dette gjelder disse felt:
     - **Totalbudsjett for prosjektet**
     - **Kostnader påløpt totalt**
     - **Prognose for prosjektet**
-    - **Totalbudsjett for prosjektet**
-    - **Totalbudsjett for prosjektet**
-  
+      
      
-     **A.** Ved å holde musen inne i felten får du opp disse piler som lar deg legge inn tall 
+     **A.** Ved å holde muspekeren inne i feltet får du opp disse piler som lar deg legge inn tall 
 
 3.  Forhåndsdefinerte verdier - I disse feltene kan du velge mellom et antall forhåndsdefinerte verdier. Det gjelder alle statusfeltene :
     - **Status fremdrift**
@@ -50,7 +48,7 @@ Rapporten innholder felt som har forskjellige verdier som:
     
       ![](./media/42-Prosjektstatus-Feltverdi.png)
 
-   ***For alle statusfelt er også mulig å legge til egne kommentarer der det er behov for å utdype med mer detaljer. Dette gjør du i kommentarfeltet i bunnen av hver seksjon***
+   ***For alle statusfelt er også mulig å legge til egne kommentarer der det er behov for å utdype med mer detaljer. Dette gjør du i kommentarfeltet under av hver seksjon***
 
 
 
