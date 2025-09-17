@@ -35,7 +35,7 @@ Før egenskaper for prosjektet er fylt ut, vil forsiden se ut som bildet under. 
 
 6.  **Prosjektinformasjon** innholder nøkkelinformasjon om prosjektet. Informasjon som legges inn her, blir også synlig på porteføljenivå. Du kan også endre tittel og beskrivelse for prosjektet i dette feltet.
 
-7.  **Prosjektnyheter** fungerer som prosjektets informasjonskanal. Prosjektnyheter som publeseres i prosjektet blir aggregert opp og vises på porteføljenivå. 
+7.  **Prosjektnyheter** fungerer som prosjektets informasjonskanal. Prosjektnyheter som publiseres i prosjektet blir aggregert opp og vises på porteføljenivå. 
 
 8.  **Møter og hendelser** vil vise de hendelser som er lagt inn i gruppekalenderen i Outlook.
 
