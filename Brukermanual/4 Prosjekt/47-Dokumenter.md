@@ -16,7 +16,7 @@ parent: Prosjekt
 1. TOC
 {:toc}
 
-SharePoint og Prosjektportalen har fantastiske verktøy for å dele,skrive sammen på og vedlikeholde prosjektdokumenter. 
+SharePoint og Prosjektportalen har fantastiske verktøy for å dele, skrive sammen på og vedlikeholde prosjektdokumenter. 
 Dette avsnittet tar for seg grunnleggende dokumenthåndtering. For mer informasjon om dokumenthåndtering gå til [Microsoft sine egne supportsider](https://support.office.com/nb-no/article/Hva-er-et-dokumentbibliotek-3b5976dd-65cf-4c9e-bf5a-713c10ca2872?ui=nb-NO&rs=nb-NO&ad=NO).
 
 
@@ -24,7 +24,7 @@ Dette avsnittet tar for seg grunnleggende dokumenthåndtering. For mer informasj
 
 På forsiden av prosjektområdet er det bygget inn en visning av prosjektdokumenter. Denne visningen fremstiller dokumentene basert på det som heter «standard visning». En god praksis kan være å la visningen «Gjeldende fase» stå som «standard visning», på denne måten er det dokumenter tilknyttet den fasen prosjektet er i som vises på prosjektets hjemmeside.
 
-  **A)** Hvilken visning som er gjelende ser du her 
+  **A)** Hvilken visning som er gjeldende ser du her 
 
 ![](./media/47-Dokumenter.png)
 
@@ -32,7 +32,7 @@ På forsiden av prosjektområdet er det bygget inn en visning av prosjektdokumen
 Hva som skal være standardvisning kan defineres i dokumentbiblioteket. Her ligger alle dokumentene i prosjektet.
 ![](./media/47-Dokumenter-RedigerGjlendeVisning.png)
 1. Dokumentbiblioteket  er tilgjengelig i venstremenyen. 
-2. Åpne visningsmenuen på høyre side.
+2. Åpne visningsmenyen på høyre side.
 3. Velg visningen du ønsker å vise som standard
 4. Velg deretter å gjøre valgt visning til gjelende
 
@@ -41,12 +41,12 @@ I tillegg kan deltakerne selv legge til, fjerne og redigere dokumenter i prosjek
 
 
 ## Laste opp dokument(er) i prosjektområdet
-I tillegg til å legge inn standarddokumenter ved opprettelse av prosjektet, er det flere metoder som kan benyttes for å få dokumenter inn i et prosjekt på. Vi beskriver disse kort i denne manualen, med fokus på *Hent dokumentmal* som er en spesialtilpasset metoden for Prosjektportalen. 
+I tillegg til å legge inn standarddokumenter ved opprettelse av prosjektet, er det flere metoder som kan benyttes for å få dokumenter inn i et prosjekt på. Vi beskriver disse kort i denne manualen, med fokus på *Hent dokumentmal* som er en spesialtilpasset metode for Prosjektportalen. 
 
 Det kan være begrensninger på enkelte av funksjonene. Dette gjelder forhold som styres fra sentralt hold og som Prosjektportalen dermed ikke kan overstyre. I tillegg kan du oppleve at nettlesere oppfører seg noe ulikt.
 
 Disse er de ulike metodene som vil bli beskrevet:
-1. Hent Hent dokumentmal
+1. Hent dokumentmal
 2. Ny knappen
 3. Last opp-knappen
 4. Dra-og-slipp-metoden
@@ -57,24 +57,23 @@ Disse er de ulike metodene som vil bli beskrevet:
 
 
 ### Hent dokumentmal
-
 Med denne funksjonen er det dokumentene som ligger i ***Malbiblioteket*** på Porteføljenivå som benyttes som kilde. Ved å trykke på **Hent dokumentmal** får du en oversikt over dokumentmalene som ligger der.
 
 Her vil det alltid være siste utgave av malen som blir tatt med over til prosjektet. Dette er med på å styrke samhandlingen rundt bruk av maler, og sikre at man til enhver tid arbeider med siste mal.
 
 Disse malene vil også allerede kunne være merket med relevant prosjektfase.
+1. Marker malen du ønsker å hente inn
+2. Klikk på velg
 
 <img src = "./media/47-Dokumenter-HentDokmal.png" width ="70%" height = "50%">
 
 ### Ny-knappen
-
 Med "Ny"-knappen kan du opprette et nytt dokument i dokumentbiblioteket. Trykk på **Ny** og velg hvilken type dokumnet du vil opprette.
 Hva slags dokumenter du kan opprette er styrt av prosjektområdets innholdstyper.
 
 <img src = "./media/47-Dokumenter-NyDok.png" width ="70%" height = "50%">
 
 ### Last opp-knappen
-
 Du kan også benytte deg av "Last opp"-knappen som ligger i toppmenyen i dokumentbiblioteket. Her blar du deg frem til de aktuelle dokumentene på din egen PC, og velger disse for opplasting.
 
 Dokumentene du laster opp blir ikke flyttet, men kopiert inn i biblioteket.
@@ -91,7 +90,6 @@ Har du dokumenter liggende på en filkatalog eller som vedlegg i en epost er det
 
 
 ## Redigere egenskapene til et dokument
-
 Du kan redigere egenskapene til et dokument. Om du ønsker å (for eksempel) endre fase på et dokument kan du gjøre dette på flere måter direkte i biblioteket:
 - Rediger i rutenettvisning
 - Elipsemenyen
@@ -108,7 +106,7 @@ Du kan redigere egenskapene til et dokument. Om du ønsker å (for eksempel) end
 ### Elipsemenyen 
    1. Trykk på Elipsemenyen
    2.  Velg mer
-   3.  Velg efenskaper og ny side åpnes og du kan editere egenskapene
+   3.  Velg egenskaper og ny side åpnes og du kan editere egenskapene
       
  <img src = "./media/47-Dokumenter-Elipsemeny.png" width ="70%" height = "50%">
  
