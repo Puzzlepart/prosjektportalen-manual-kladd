@@ -11,7 +11,7 @@ parent: Prosjekt
 
 Prosjektloggen brukes som et verktøy for å registrere og samle erfaringer i ett prosjekt. Lista kan knyttes opp mot prosjektleveranser, slik at man kan spore hvilke leveranser det er registrert erfaringer på.
 
-Trykk på **Ny** til å opprette Nye elementer/erfaringer. 
+Trykk på **Legg til nytt element** for å opprette Nye elementer/erfaringer. 
 
 ![](./media/43-Prosjektlogg.png)
 
@@ -44,10 +44,10 @@ Les under bilde for beskrivelse av alle felt.
     - Andre
 
 6. **Konsekvens** - I denne felt kan man beskrive hva konsekvensen av loggelementet er
-7. **Anbefaling** - Beskriv her hva prosjektets anbefaling er for å kunne håndtere loggeleentet videre
+7. **Anbefaling** - Beskriv her hva prosjektets anbefaling er for å kunne håndtere loggelementet videre
 
 8. **Til erfaringsloggen** De elementer som er av betydning for andre prosjekter, kan gjøres
-tilgjengelig for Porteføljenivået ved markere ***Ja*** i denne felt. å slå på bryteren 
+tilgjengelig for Porteføljenivået ved markere ***Ja*** i denne felt.
 
 9. Feltet **Aktører** har forhåndsdefinerte verdier og det er mulig å velge en eller flere av disse verdier
     - Leverandører
@@ -59,7 +59,7 @@ tilgjengelig for Porteføljenivået ved markere ***Ja*** i denne felt. å slå p
 10. **Påvirker leveranse** Om ønskelig kan du koble elementet til en leveranse gjennom at velge en leveranse fra listen som er tilgjengelig. 
 
 11. **Vedlegg** kan legges til på enkelt elementer. Merk at disse vedleggene vil bare bli lagret i denne listen, og blir ikke vist i dokumentbiblioteket.
-12. Husk å **Lagre** når du er ferdig. Du kan lagre enten på toppen av eller bunn av listen. 
+12. Husk å **Lagre** når du er ferdig i bunn av listen. 
 
 
 
