@@ -111,10 +111,14 @@ Du kan redigere egenskapene til et dokument. Om du ønsker å (for eksempel) end
  <img src = "./media/47-Dokumenter-Elipsemeny.png" width ="70%" height = "50%">
  
 ### Detaljruten
-  1. Marker dokumentet du vil endre egenskaper på
-  2. Trykk på "Detalj"-knappen
-  3. En panel åpnes på høyre siden og du kan redigere egenskapene for dokumentet
-    
+For å åpne detaljrute panelen på høyre siden og redigere egenskapene for dokumentet kan du enten
+  2. Marker dokumentet du vil endre egenskaper på
+  3. Trykk på "Detalj"-knappen
+
+  eller
+  4. Trykke på Elipsemenyen
+  5. Velge Detaljer
+
 <img src = "./media/47-Dokumenter-Detaljrute.png" width ="70%" height = "50%">
 
 
@@ -128,13 +132,13 @@ For hver lagring som blir gjort, blir en ny versjon av dokumentet opprettet auto
 
 Det er to veier til å finne versjonsloggen, marker dokumentet: 
 - Klikke på **Elipsemenyen** på dokumentet
-- Hæyreklikk på dokumentet
+- Høyreklikke på dokumentet
   
 <img src = "./media/47-Dokumenter-Vesjonslogg1.png" width ="70%" height = "60%">
 
 
 
-1. I versjonsloggen kan du se på tidligere versjoner  på dato og tidspunkt i "Endret"-kolonnen 
+1. I versjonsloggen kan du se på tidligere versjoner med dato og tidspunkt i "Endret"-kolonnen 
 2. Trykk på nedtrekkspilen som du ser hvis du drar musepekeren over en versjon for å få se hvilke valg du har.
 3. Gjennopprett dokumentet fra tidligere versjon hvis ønskelig. 
 Når du gjenoppretter en tidligere versjon, blir den nåværende versjonen lagret i versjonsloggen.
