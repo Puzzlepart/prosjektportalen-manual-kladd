@@ -11,7 +11,7 @@ parent: Prosjekt
 
 Kommunikasjonsplanen brukes til å planlegge og utføre alt av kommunikasjon i og rundt prosjektet.
 
-Trykk på **Ny** til å opprette ny kommunikasjonselement. 
+Trykk på **Legg til nytt element** for å opprette ny kommunikasjonselement. 
 
 ![](./media/45-Kommunikasjonsplan.png)
 
@@ -42,6 +42,6 @@ Fyll ut feltene med relevant informasjon. Les under bilde for beskrivelse av all
 7. Er det noen utfyllende **kommentar** til kommunikasjonsaktiviteten, kan den legges inn her
 8. **Målgruppe** kan hentes ut fra interessentregisteret, hvor det også ligger mer informasjon rundt interessenten. Det kan velges flere målgrupper for hvert enkelt kommunikasjonselement.
 9. **Vedlegg** kan legges til på enkelt elementer. Merk at disse vedleggene bare lagres i denne listen, og blir ikke vist i dokumentbiblioteket.
-10. Husk å **Lagre** når du er ferdig. Du kan lagre enten på toppen av eller bunn av listen.
+10. Husk å **Lagre** når du er ferdig i bunn av listen.
 
 
