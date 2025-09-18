@@ -34,7 +34,7 @@ På prosjektets hjemme side er det lagt inn en komponent som viser status på op
 
 I redigeringsmodus:
   1. Marker komponenten
-  2. Velg «Rediger nettdel» (blyantsymbolet)
+  2. Velg «Rediger egenskaper» 
   3. Velg ønsket visning
   4. Avslutt med «Publiser på nytt» på siden
 
@@ -45,29 +45,29 @@ Alle oppgavene og detaljer rundt disse finner du på prosjektets oppgave side i 
 
 ## Oppgavesiden i prosjektet
 
-På prosjektets oppgaveside vil du kunne bearbeide alle oppgaver i
+1. På prosjektets oppgaveside vil du kunne bearbeide alle oppgaver i
 prosjektet.
 
 ![](./media/48-Oppgaver-Meny.png)
 
 Typiske aktiviteter når du arbeider med oppgaver er
 
-1.  Opprette ny oppgave i en samling
-2.  Velg en oppgave for å komme inn på oppgavens detaljside (se neste kapittel)
-3.  Vise/skjule fullførte oppgaver
-4.  Opprette en ny samling
+2.  Opprette ny oppgave i en samling
+3.  Velg en oppgave for å komme inn på oppgavens detaljside (se neste kapittel)
+4.  Vise/skjule fullførte oppgaver
+5.  Opprette en ny samling
 
 Du kan også betjene visningsområdet på siden med funksjonene:
 
-5. Filter – Velg et filter du ønsker å benytte deg av. Her kan du velge blant annet mellom forfaller, prioritet, etikett, eller samling 
-6. Gruppert etter – Her kan du velge hvilken gruppering du ønsker
+6. Filter – Velg et filter du ønsker å benytte deg av. Her kan du velge blant annet mellom forfaller, prioritet, etikett, eller samling 
+7. Gruppert etter – Her kan du velge hvilken gruppering du ønsker
 
 ![](./media/48-Oppgaver-FilterogGrupper.png)
 
 
 ## Oppbygning av oppgaver i Microsoft Planner
 
-På Oppgavesiden i venstremenyen, kan du vege en oppgave da åpnes oppgaven opp. 
+På Oppgavesiden i venstremenyen, kan du velge en oppgave da åpnes oppgaven opp. 
 ![](./media/48-Oppgaver-oppbyggning.png)
 
 1.  **Tilordne** – Her legger du inn navnet på den eller de som er ansvarlig for oppgaven (kan være flere personer om ønskelig)
@@ -76,7 +76,8 @@ På Oppgavesiden i venstremenyen, kan du vege en oppgave da åpnes oppgaven opp.
 4.  **Fremdrift** – Angivelse av fremdriftsstatus på oppgaven 
 5.  **Prioritet** - Du kan sette opp prioritet på oppgaven
 6.  **Startdato** og **Forfallsdato** – Planlagt tidspunkt for oppstart og dato når oppgaven skal være løst
-7.  **Sjekkliste** – Kan benyttes til deloppgaver
-8.  **Kommentar** – Dette er en logg for den enkelte saken, hvor de som har saken tilordnet seg vil bli varslet pr epost når du trykker ***Send***
+7.  **Gjenta** - Velg om du ønsker at oppgaven skal gjentas 
+8.  **Sjekkliste** – Kan benyttes til deloppgaver
+9.  **Kommentar** – Dette er en logg for den enkelte saken, hvor de som har saken tilordnet seg vil bli varslet pr epost når du trykker ***Send***
 
 
