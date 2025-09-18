@@ -29,9 +29,9 @@ Dersom noen av fasesjekkpunktene ikke er utført, vil en dialogboks åpne seg og
 fasesjekkpunktene og kommentere sjekkpunktene.
 
 Du kan velge: 
-- **Utført** - da kommer du videre til neste sjekkpunkt som er åpen
-- **Hopp over alle** - Da hopper du over alle sjekkpunkter og kan velge å gå over til neste fase 
-- **Avbryt** - Lukker dialogboksen
+1. **Utført** - da kommer du videre til neste sjekkpunkt som er åpen
+2. **Hopp over alle** - Da hopper du over alle sjekkpunkter og kan velge å gå over til neste fase 
+3. **Avbryt** - Lukker dialogboksen
 ![](./media/49-Fasesjekkliste-Sjekkpunkt.png)
 
 ## Redigere prosjektets fasesjekkpunkter
