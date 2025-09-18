@@ -11,9 +11,9 @@ parent: Prosjekt
 
 Med ***Ressursallokeringen*** kan prosjektet sette opp de aktuelle deltagerne i prosjektet og prosjektteamet.
 
-Bilde viser et eksempel på en liste med Ressursallokering i et prosjekt. 
+1. Bilde viser et eksempel på en liste med Ressursallokering i et prosjekt. 
 
-Trykk på **Ny** for å legge in ny ressurs/element.
+2. Trykk på **Legg til nytt element** for å legge in ny ressurs/element.
 
 ![](./media/53-Ressursallokering.png)
 
@@ -50,10 +50,11 @@ Les under bilde for beskrivelse av alle felt.
 3. **Belastning** på ressurs kan legges inn og indikerer prosentsats på belastning.
 4. **Status** - Her ligger det en liste med forhåndsdefinerte verdier som du kan få opp gjennom å klikke i feltet. Verdier som kan velges er: 
    - Forespurt
+   - Tildelt
    - Avvist
    - Annet (Beskriv i kommentar)
 5. **Vedlegg** kan legges til. Merk at disse vedleggene bare vil bli lagret i denne listen, og blir ikke vist i dokumentbiblioteket.
-6. Husk å **Lagre** når du er ferdig. Du kan lagre enten på toppen av eller bunn av listen.
+6. Husk å **Lagre** når du er ferdig i bunn av listen.
 
 
 
