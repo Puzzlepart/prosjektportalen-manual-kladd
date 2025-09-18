@@ -39,19 +39,21 @@ Du kan velge:
 ### Opprette ny sjekkpunkt
 
 1. Trykk på **Fasesjekkliste** i venstremenyen for å åpne den.
-2. Trykk deretter på **Ny** for å opprette et nytt fasesjekkpunkt.
-3. En panel åpnes på høyre side. Fyll inn relevant innhold.
+2. Trykk deretter på **Legg til nytt element** for å opprette et nytt fasesjekkpunkt.
+3. En side åpnes opp. Fyll inn relevant innhold.
    **A)** Fase - Oppgi fasen som sjekklisten skal tilhøre
    **B)** Trykk på symbolen for å få opp en liste over tilgjengelige faser eller 
-   **C)** Status - La status stå som ***Åpen*** hvis det er noe som skal gjennomgås senere. 
+   **C)** Status - La status stå som ***Åpen*** hvis det er noe som skal gjennomgås senere.
+4. Lagre når du er ferig
 
 ![](./media/49-Fasesjekkliste-NySjekkpunkt.png)
 
 ### Redigere eksisterende sjekkpunkter
 Eksisterende fasesjekkpunkter kan redigeres ved å markere et enkelte element.
 1. Marker sjekkpunkten du vil redigere
-2. velge **Rediger**
-3. Redigere egenskapene på prosjektet i panalen som åpnes på høyre siden. Husk å la et fasesjekkpunkt stå som ***Åpen*** på status dersom det er et punkt som skal bli tatt stilling til på et senere tidspunkt
+2. velg **Rediger** på toppen av siden over listen. 
+   Redigere egenskapene på prosjektet i den nye siden som kommer opp. Husk å la et fasesjekkpunkt stå som ***Åpen*** på  status dersom det er et punkt som skal bli tatt stilling til på et senere tidspunkt.
+3. Lagre når du er ferig med redigering
 
 ![](./media/49-Fasesjekkliste-RedigerSjekkpunkt.png)
 
