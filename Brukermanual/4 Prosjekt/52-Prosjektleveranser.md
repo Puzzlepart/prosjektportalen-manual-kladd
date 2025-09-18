@@ -11,7 +11,7 @@ parent: Prosjekt
 
 I dette verktøyet registreres og vedlikeholdes alle leveranser for prosjektet. Alle leveranser kan knyttes opp mot målgrupper fra interessentlisten.
 
-Trykk på **Ny** til å opprette Nye elementer/erfaringer. 
+Trykk på **Legg til nytt element** for å opprette Nye elementer/erfaringer. 
 ![](./media/52-Prosjektleveranser.png)
 
 ## Legge til ny leveranse/element
@@ -20,7 +20,7 @@ Fyll inn skjemaet i henhold til leveransen og med relevant informasjon. Les unde
 
 ![](./media/52-ProsjektleveranserNy1.png)
 ![](./media/52-ProsjektleveranserNy2.png)
-![](./media/52-ProsjektleveranserNy2.png)
+![](./media/52-ProsjektleveranserNy3.png)
 
 1. Feltet Tittel er markert med stjerne, disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
 2. Sett en leveransestatus for å enkelt kunne følge opp leveransen
@@ -28,6 +28,6 @@ Fyll inn skjemaet i henhold til leveransen og med relevant informasjon. Les unde
     - Overordnet
     - Underordnet
 4. Du kan velge interessentgruppe fra **Interessent(er)**-feltet hvis dette er relevant for en konkret målgruppe.
-5. Husk å **Lagre** når du er ferdig. Du kan lagre enten på toppen av eller bunn av listen.
+5. Husk å **Lagre** når du er ferdig i bunn av listen.
 
 
