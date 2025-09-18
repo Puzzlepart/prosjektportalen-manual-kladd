@@ -11,9 +11,8 @@ parent: Prosjekt
 
 Prosjektstatus er en sammenstilling av informasjon om prosjektet, hvor noe rapporteres inn gjennom statusrapportene direkte, mens annet hentes fra prosjektinformasjonen. Oversikten gir deg en visuell fremstilling på nåværende status og fremgang i prosjektet.
 
-Før første statusrapport er opprettet vil vinduet se ut som bildet under.
-
-  - For å opprette ny ststusrapport klikker du på **"Opprett"**
+1. Før første statusrapport er opprettet vil vinduet se ut som bildet under.
+2. For å opprette ny ststusrapport klikker du på **"Opprett"**
 
     ![](./media/42-Prosjektstatus.png)
 
