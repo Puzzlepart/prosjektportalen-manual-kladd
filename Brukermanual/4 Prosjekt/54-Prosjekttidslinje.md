@@ -26,16 +26,19 @@ For å zoome inn/ut i tidslinje bildet bruk **ALT+Musehjul**
 <img src = "./media/54-prosjekttidslinje.png" width ="90%" height = "%">
 
 
-## Rediger
+## Rediger egenskaper
+1. Det er mulig å redigere visningen gjennom å trykke på Rediger. Da åpnes en panel på høyre siden.
+2. Her kan du velge å vise frem prosjektleveranser gjennom å velge "På/Av" på bryteren.
+3. Lagre endringene dine
+
 <img src = "./media/54-prosjekttidslinjeRediger1.png" width ="90%" height = "%">
 <img src = "./media/54-prosjekttidslinjeRediger2.png" width ="90%" height = "%">
 
-1. Visningen kan redigeres for visning gjennom å trykke på Rediger. Da åpnes en panel på høyre siden.
-2. Her kan du velge å vise frem prosjektleveranser gjennom å velge "På/Av" på bryteren.
 
 
 ## Legg til nytt element
 <img src = "./media/54-prosjekttidslinjeNy.png" width ="90%" height = "%">
+
 1. **Nytt element** Trykk for opprettelse av nytt element og en panel åpnes på høyre siden. Fyll ut feltene med relevant informasjon.
 2. Feltet **Tittel** er markert med stjerne, disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
 3. Trykk inn på feltet for å velge mellom frhåndsdefinerte verdier på **Type**. Disse blir sunliggjort på tidslinjen med ulike symboler og farger. Vedrier som du kan velge mellom er:
