@@ -20,6 +20,7 @@ Trykk på **Legg til nytt element** for å opprette ny intressentregister.
 ## Opprette nytt register
 
 Fyll ut feltene med relevant informasjon. Les under bilde for beskrivelse av alle felt.
+
 ![](./media/44-Intressentregister-NyttRegister1.png)
 ![](./media/44-Intressentregister-NyttRegister2.png)
 
