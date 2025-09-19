@@ -15,7 +15,7 @@ Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opp
 1. Dette gjøres ved å trykke på *Opprett område*-lenken i øvre høyre del på forsiden av Prosjektportalen. 
 2. Velg og opprette et "Gruppenettsted/Teamsite" ved å trykke på boksen til venstre.
 
-   <img src = "./media/30-OpprettProsjekt.png" width ="80%" height = "80%"> 
+   <img src ="./media/30-OpprettProsjekt.png" width ="80%" height = "80%"> 
    
    <img src="30-OpprettProsjekt.png" alt="30-OpprettProsjekt" width="80%"/>
    
