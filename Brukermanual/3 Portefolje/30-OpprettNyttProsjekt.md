@@ -17,9 +17,9 @@ Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opp
 
    <img src = "./media/30-OpprettProsjekt.png" width ="80%" height = "80%"> 
    
-   <img src="30-OpprettProsjekt.png" alt="30-OpprettProsjekt.png" width="80%"/>
+   <img src="30-OpprettProsjekt.png" alt="30-OpprettProsjekt" width="80%"/>
    
-   <img src="30-OpprettProsjekt.png" alt="30-OpprettProsjekt.png" width="80%" height=80%/>
+   <img src="30-OpprettProsjekt.png" alt="30-OpprettProsjekt" width="80%" height=80%/>
 
 3. Dette starter en prosess som bør utføres på som beskervet her under. På neste bild under fanen "Fra Microsoft" Velger du "Standard Team"
 
