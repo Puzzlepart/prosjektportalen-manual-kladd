@@ -65,7 +65,7 @@ Disse malene vil også allerede kunne være merket med relevant prosjektfase.
 1. Marker malen du ønsker å hente inn
 2. Klikk på velg
 
-<img src = "./media/47-Dokumenter-HentDokmal.png" width ="70%" height = "50%">
+<img src ="./media/47-Dokumenter-HentDokmal.png" width ="70%" height = "50%">
 
 ### Ny-knappen
 Med "Ny"-knappen kan du opprette et nytt dokument i dokumentbiblioteket. Trykk på **Ny** og velg hvilken type dokumnet du vil opprette.
