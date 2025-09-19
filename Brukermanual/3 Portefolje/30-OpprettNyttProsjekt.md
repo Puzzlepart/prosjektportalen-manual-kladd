@@ -43,6 +43,7 @@ Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opp
 10. Prosjektområdet blir opprettet og du vil nå bli videresendt til det nye prosjektområdet.
 Det første du trenger å gjøre er å sette opp området med ønsket innhold.
 Alle muligheter gjøres tilgjengelig på de 3 sidene:
+
 **A**)Prosjektmal
 **B**)Prosjekttillegg
 **C**) Standardinnhold
