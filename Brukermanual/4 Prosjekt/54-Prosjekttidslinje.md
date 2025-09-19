@@ -27,26 +27,26 @@ For å zoome inn/ut i tidslinje bildet bruk **ALT+Musehjul**
 
 
 ## Rediger egenskaper
+<img src = "./media/54-prosjekttidslinjeRediger1.png" width ="90%" height = "%">
+<img src = "./media/54-prosjekttidslinjeRediger2.png" width ="90%" height = "%">
+
 1. Det er mulig å redigere visningen gjennom å trykke på Rediger. Da åpnes en panel på høyre siden.
 2. Her kan du velge å vise frem prosjektleveranser gjennom å velge "På/Av" på bryteren.
 3. Lagre endringene dine
 
-<img src = "./media/54-prosjekttidslinjeRediger1.png" width ="90%" height = "%">
-<img src = "./media/54-prosjekttidslinjeRediger2.png" width ="90%" height = "%">
-
-
-
 ## Legg til nytt element
 <img src = "./media/54-prosjekttidslinjeNy.png" width ="90%" height = "%">
 
-1. **Nytt element** Trykk for opprettelse av nytt element og en panel åpnes på høyre siden. Fyll ut feltene med relevant informasjon.
-2. Feltet **Tittel** er markert med stjerne, disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
-3. Trykk inn på feltet for å velge mellom frhåndsdefinerte verdier på **Type**. Disse blir sunliggjort på tidslinjen med ulike symboler og farger. Vedrier som du kan velge mellom er:
+1. **Nytt element** - Trykk for opprettelse av nytt element og en panel åpnes på høyre siden. Fyll ut feltene med relevant informasjon.
+2. **Tittel** - Feltet er markert med stjerne, disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
+3. **Type** - Trykk inn på feltet for å velge mellom frhåndsdefinerte verdier på element type. Disse blir synliggjort på tidslinjen med ulike symboler og farger. Vedrier som du kan velge mellom er:
     - Fase
     - Delfase
     - Milepæl
     - Beslutningspunkt
-4. **Etikett** - Velg en etikett for å enklere kunne filtrere på elementene. Du kan sette opp forhåndsdefinerte valg og disse valgene kan tilpasses til dine behov. De forhåndsdefinerte valgene her er:
+    - ressurs
+    - Sprint
+4. **Etikett** - Velg en etikett for å enklere kunne filtrere på elementene. Du kan sette opp forhåndsdefinerte verdier og disse verdiene kan tilpasses til dine behov. De forhåndsdefinerte valgene her er:
     - Overordnet
     - Underordnet
       
