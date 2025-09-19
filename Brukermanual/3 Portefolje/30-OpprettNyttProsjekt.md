@@ -48,6 +48,7 @@ Alle muligheter gjøres tilgjengelig på de 3 sidene:
 **C**) Standardinnhold
 Hva som skal ligge tilgjengelig på disse sidene er styrt av porteføljeadministrator. Videre følger en forklaring på hva du kan tilgjengeliggjøre i det nye prosjektet.
 ![](./media/30-SiteOppsett.png)
+
 **A)Prosjektmal** - På denne siden velger du hvilken mal prosjektet skal settes opp etter. Her kan du velge mellom de ulike prosjektmalene som er installert.
 
 **B)Prosjekttillegg** - Her velger du hvilke tillegg som du ønsker med i dette prosjektet.
