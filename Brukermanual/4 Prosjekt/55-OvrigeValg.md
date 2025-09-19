@@ -17,7 +17,7 @@ Nederst på venstre meny finner man:
 - **Papirkurv**
 - **Rediger** 
 
-Her under vil du finne mer informasjon om disse menyene.
+Her under vil du finne mer informasjon om disse menyepunktene.
 
 ## Områdeinnhold
 
@@ -31,7 +31,7 @@ Du kan lære mer om Områdeinnhold i [Microsoft sine egne supportsider](https://
 
 1. I alle nye prosjekter vil du se en Teams-kobling helt nederst i venstre hjørne av menyen. Med denne koblingen kan du opprette et
 team som vil være tilgjengelig i Microsoft Teams-appen.
-2. Venstremeny før opprettelse av Teams
+2. Slik ser venstremeny ut før opprettelse av Teams.
 
 <img src = "./media/55-OvrigeValg-TeamsFor.png" width ="60%" height = "50%">
 
@@ -45,13 +45,13 @@ team som vil være tilgjengelig i Microsoft Teams-appen.
 Her finner du alt du har slettet fra prosjektområdet, og kan
 gjenopprette elementer om du har slettet noe ved uhell. Områdeeier kan se alt som er slettet, og kan gjenopprette uavhengig om det ble slettet av noen andre. Du kan lære mer om papirkurven i [Microsoft sine egne supportsider](https://support.office.com/nb-no/article/Behandle-papirkurven-for-et-SharePoint-omr%C3%A5de-8A6C2198-910E-42DC-9A9C-BC5BC4F327DA ).
 
-<img src = "./media/55-OvrigeValg-Omradeinnhold.png" width ="70%" height = "50%">
+<img src = "./media/55-OvrigeValg-Papirkurv.png" width ="70%" height = "50%">
 
 
-##  Rediger
+##  Rediger venstremeny
 Det er mulig å redigere venstre meny. Du kan lære hvordan i Microsoft sine egne supportsider - bla ned til ["Legge en kobling i navigasjonsmenyen på et gruppeområde"](https://support.microsoft.com/nb-no/office/tilpasse-navigasjonen-p%C3%A5-sharepoint-omr%C3%A5det-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
 
-<img src = "./media/55-OvrigeValg-Omradeinnhold.png" width ="70%" height = "50%">
+<img src = "./media/55-OvrigeValg-RedVenstMen.png" width ="70%" height = "50%">
 
 
 
