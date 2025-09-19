@@ -44,11 +44,11 @@ Den som har *eiertilgang* på porteføljenivået, har også rettighet til å opp
 Det første du trenger å gjøre er å sette opp området med ønsket innhold.
 Alle muligheter gjøres tilgjengelig på de 3 sidene:
 
-**A**)Prosjektmal 
-
-**B**)Prosjekttillegg 
-
-**C**) Standardinnhold
+   **A**)Prosjektmal 
+   
+   **B**)Prosjekttillegg 
+   
+   **C**) Standardinnhold
 
 Hva som skal ligge tilgjengelig på disse sidene er styrt av porteføljeadministrator. Videre følger en forklaring på hva du kan tilgjengeliggjøre i det nye prosjektet.
 ![](./media/30-SiteOppsett.png)
