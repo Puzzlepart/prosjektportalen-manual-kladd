@@ -32,6 +32,7 @@ Du kan velge:
 1. **Utført** - da kommer du videre til neste sjekkpunkt som er åpen
 2. **Hopp over alle** - Da hopper du over alle sjekkpunkter og kan velge å gå over til neste fase 
 3. **Avbryt** - Lukker dialogboksen
+   
 ![](./media/49-Fasesjekkliste-Sjekkpunkt.png)
 
 ## Redigere prosjektets fasesjekkpunkter
