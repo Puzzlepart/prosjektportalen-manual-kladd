@@ -29,6 +29,7 @@ Trykk på **Ny** til å opprette ny usikkerhet og velg mellom ***Risio*** og ***
 Når det legges inn en ny usikkerhet, er det en mengde data som legges inn på den aktuelle risiko eller muligheten. Det er de samme dataene som er aktuelle for både risiko og muligheter.
 
 Fyll ut feltene med relevant informasjon. Les under bilde for beskrivelse av alle felt.
+
 <img src = "./media/46-NyUsikkerhet1.png" width ="60%" height = "20%">
 <img src = "./media/46-NyUsikkerhet2.png" width ="60%" height = "20%">
 
