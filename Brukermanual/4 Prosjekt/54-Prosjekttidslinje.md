@@ -52,10 +52,11 @@ For å zoome inn/ut i tidslinje bildet bruk **ALT+Musehjul**
       
 ## Redigere eksisterende element 
 <img src = "./media/54-prosjekttidslinjeRedigerEks.png" width ="90%" height = "%">
-1. Marker elementet du vil redigere.
-2. Trykk på rediger og en panel åpnes på høyre siden og du kan enkelt redigere elementet. 
-3. Trykk på **SLett** for å slette elementet fra listen.
 
+1. Marker elementet du vil redigere. 
+2. Trykk på rediger og en panel åpnes på høyre siden og du kan enkelt redigere elementet.  
+3. **SLett** Trykk på  for å slette elementet fra listen.
+ 
 ## Gruppering
 <img src = "./media/54-prosjekttidslinjeGrupper.png" width ="90%" height = "%">
 Du kan velge å gruppere visningen med disse grupperingvalgene:
