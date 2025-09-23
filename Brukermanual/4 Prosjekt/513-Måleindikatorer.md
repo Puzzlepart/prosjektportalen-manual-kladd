@@ -14,6 +14,7 @@ Med måleindikatorer setter du opp hvilke konkrete måleparameter du ønsker å 
 Les under bilde for mer informasjon om opprettelse av nytt element i listen
 
 ![](./media/513-Måleindikatorer.png)
+
 ![](./media/513-MåleindikatorerNy.png)
 
 Fyll ut feltene med relevant informasjon. Legg merke til at noen av feltene har en stjerne ved navnet. Disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
