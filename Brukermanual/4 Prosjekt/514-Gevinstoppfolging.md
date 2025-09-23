@@ -13,6 +13,7 @@ grand_parent: Prosjekt
 Dette er et verktøy for å utføre målinger på gevinster, sånn at du kan følge med på utviklingen i henhold til målet som er satt.
 
 ![](./media/514-Gevinstoppfølgning.png)
+
 ![](./media/514-GevinstoppfølgningNy.png)
 
 Fyll ut feltene med relevant informasjon. Legg merke til at noen av feltene har en stjerne ved navnet. Disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
