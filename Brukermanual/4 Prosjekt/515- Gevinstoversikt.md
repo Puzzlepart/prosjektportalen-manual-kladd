@@ -10,18 +10,16 @@ grand_parent: Prosjekt
 
 # Gevinstoversikt
 
-Gevinstoversikten blir automatisk generert når det er registrert
-gevinster, og målinger av gevinster, i prosjektet. Her får deltagere et oversiktsbilde over gevinster, samt status på disse indikert med tall og piler.
+Gevinstoversikten blir automatisk generert når det er registrert gevinster, og målinger av gevinster, i prosjektet. 
 
-![](./media/image85.png)
+1. Her får deltagere et oversiktsbilde over gevinster, samt status på disse indikert med tall og piler.
+![](./media/515-Gevinstoversikt.png)
 
-Ved å klikke på *Vis alle målinger* til høyre på en av linjene, vil du kunne se alle målinger utført for denne gevinsten.
+3. Ved å klikke på **Vis alle målinger** til høyre på en av linjene, vil du kunne se alle målinger utført for denne gevinsten.
+![](./media/515-GevinstoversiktMaling.png)
 
-![](./media/image86.png)
+4. Hvis måloppnåelsen er større enn 100% vil en liten pokal dukke opp ved siden av resultatet som vist under:
+![](./media/515-GevinstoversiktPokal.png)
 
-Hvis måloppnåelsen er større enn 100% vil en liten pokal dukke opp ved siden av resultatet som vist under:
 
-![](./media/image87.png)
-
-All tilgjengelig informasjon i gevinstoversikten vises også på
-porteføljenivå for de som har tilgang til prosjektet.
+All tilgjengelig informasjon i gevinstoversikten vises også på porteføljenivå for de som har tilgang til prosjektet.
