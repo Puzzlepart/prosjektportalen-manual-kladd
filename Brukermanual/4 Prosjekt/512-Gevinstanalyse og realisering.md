@@ -24,6 +24,7 @@ Fyll ut feltene med relevant informasjon. Legg merke til at noen av feltene har 
 1. Trykk på **Legg til nytt elementy** for å opprette ny element.
 2. De elementer som er av betydning for andre prosjekter, kan gjøres tilgjengelig for Porteføljenivået ved å slå på bryteren **Vis i portefølje = Ja**. Hvis man velger å vise analysen på porteføljenivå kommer informasjonen som legges i denne lista, eller i gevinstoppfølging, blir synlige i gevinstoversikten på porteføljenivå. Der er de tilgjengelig for alle som har tilgang til prosjektområdet.
 3. **Vedlegg** kan legges til. Merk at disse vedleggene bare vil bli lagret i denne listen, og blir ikke vist i dokumentbiblioteket.
+4. **Lagre** i bunn av listen når du er ferdig
 
 
 
