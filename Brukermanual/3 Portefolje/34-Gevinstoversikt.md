@@ -40,8 +40,7 @@ parent: Porteføljenivå
 
 **F)** Helt til høyre på hver enkelt gevinstlinje kan du velge å vise målingene som ligger til grunn på den enkelte gevinst
 
-<img src = "./media/34-Gevinstoversikt-Målinger.png" width ="70%" height ="50%">
-
+![](./media/34-GevinstoversiktMalinger.png)
 
 
 
