@@ -42,10 +42,14 @@ Du kan velge:
 1. Trykk på **Fasesjekkliste** i venstremenyen for å åpne den.
 2. Trykk deretter på **Legg til nytt element** for å opprette et nytt fasesjekkpunkt.
 3. En side åpnes opp. Fyll inn relevant innhold.
+
    **A)** Fase - Oppgi fasen som sjekklisten skal tilhøre
-   **B)** Trykk på symbolen for å få opp en liste over tilgjengelige faser eller 
+   
+   **B)** Trykk på symbolen for å få opp en liste over tilgjengelige faser eller
+   
    **C)** Status - La status stå som ***Åpen*** hvis det er noe som skal gjennomgås senere.
-4. Lagre når du er ferig
+   
+5. Lagre når du er ferig
 
 ![](./media/49-Fasesjekkliste-NySjekkpunkt.png)
 
