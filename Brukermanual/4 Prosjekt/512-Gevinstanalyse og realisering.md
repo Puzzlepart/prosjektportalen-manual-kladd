@@ -18,8 +18,8 @@ Les under bilde for mer informasjon om opprettelse av nytt element i listen
 
 Fyll ut feltene med relevant informasjon. Legg merke til at noen av feltene har en stjerne ved navnet. Disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
 ![](./media/512-Gevinstanalyse.png)
-![](./media/512-GevinstanalyseNy.png)
-![](./media/512-GevinstanalyseNy.png)
+![](./media/512-GevinstanalyseNy1.png)
+![](./media/512-GevinstanalyseNy2.png)
 
 1. Trykk på **Legg til nytt elementy** for å opprette ny element.
 2. De elementer som er av betydning for andre prosjekter, kan gjøres tilgjengelig for Porteføljenivået ved å slå på bryteren **Vis i portefølje = Ja**. Hvis man velger å vise analysen på porteføljenivå kommer informasjonen som legges i denne lista, eller i gevinstoppfølging, blir synlige i gevinstoversikten på porteføljenivå. Der er de tilgjengelig for alle som har tilgang til prosjektområdet.
