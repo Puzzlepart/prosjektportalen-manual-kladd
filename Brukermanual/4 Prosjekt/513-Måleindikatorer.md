@@ -22,4 +22,4 @@ Fyll ut feltene med relevant informasjon. Legg merke til at noen av feltene har 
 3. Hver enkelt måleindikator settes opp med **startverdi**
 4. Knytt måleindikator til den gevinsten den har påvirkning mot.
 5. **Vedlegg** kan legges til. Merk at disse vedleggene bare vil bli lagret i denne listen, og blir ikke vist i dokumentbiblioteket.
-6. Lagre i bunn av listen når du er ferdig
+6. **Lagre** i bunn av listen når du er ferdig
