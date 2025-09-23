@@ -68,6 +68,7 @@ Du kan også betjene visningsområdet på siden med funksjonene:
 ## Oppbygning av oppgaver i Microsoft Planner
 
 På Oppgavesiden i venstremenyen, kan du velge en oppgave da åpnes oppgaven opp. 
+
 ![](./media/48-Oppgaver-oppbyggning.png)
 
 1.  **Tilordne** – Her legger du inn navnet på den eller de som er ansvarlig for oppgaven (kan være flere personer om ønskelig)
