@@ -14,7 +14,7 @@ I gevinstanalyse og gevinstrealiseringsplanen føres en analyse på alle beregne
 
 I likhet med endringsanalysen, er gevinstanalyse og gevinstrealiseringsplanen laget etter prinsipper fra gevinstkokeboka.
 
-Les under bilde for mer informasjon om opprettelse av nytt element i listen
+Les under her for mer informasjon om opprettelse av nytt element i listen
 
 Fyll ut feltene med relevant informasjon. Legg merke til at noen av feltene har en stjerne ved navnet. Disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
 
