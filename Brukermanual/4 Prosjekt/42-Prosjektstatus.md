@@ -92,8 +92,10 @@ Risikoer vil også bli indikert i en risikomatrise dersom det er registrert risi
   **A)** Ved å trykke på **Vis før/etter tiltak** knappen under diagrammene kan man se en visuell representasjon av risikoer før eller etter tiltak basert på informasjon skrevet inn under usikkerheter som legges in.
 
 ***Risikoer før tiltak***
+
 ![](./media/42-Prosjektstatus-Risiko-forTiltak.png)
 
 ***Risikoer etter tiltak***
+
 ![](./media/42-Prosjektstatus-Risiko-etterTiltak.png)
 
