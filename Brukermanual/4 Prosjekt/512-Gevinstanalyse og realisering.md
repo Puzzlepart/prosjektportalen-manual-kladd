@@ -18,7 +18,9 @@ Les under bilde for mer informasjon om opprettelse av nytt element i listen
 
 Fyll ut feltene med relevant informasjon. Legg merke til at noen av feltene har en stjerne ved navnet. Disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
 ![](./media/512-Gevinstanalyse.png)
+
 ![](./media/512-GevinstanalyseNy1.png)
+
 ![](./media/512-GevinstanalyseNy2.png)
 
 1. Trykk på **Legg til nytt elementy** for å opprette ny element.
