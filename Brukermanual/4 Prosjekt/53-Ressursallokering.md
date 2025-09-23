@@ -25,9 +25,7 @@ Alle felt markert med rød stjerne er obligatoriske å fylle ut og du får ikke 
  - Sluttdato
  - Belastning
 
-Les under bilde for beskrivelse av alle felt.
-
-![](./media/53-RessursallokeringNy.png)
+Les under her for beskrivelse av alle felt.
 
 1. Oppgi ressursens navn i dette feltet
 2. Hver enkelt prosjektdeltager registreres med tiltenkt **Rolle**. Denne rollelisten er administrert som et forvaltet termsett, og vil være felles for alle prosjekter i en installasjon av Prosjektportalen.
@@ -55,6 +53,10 @@ Les under bilde for beskrivelse av alle felt.
    - Annet (Beskriv i kommentar)
 5. **Vedlegg** kan legges til. Merk at disse vedleggene bare vil bli lagret i denne listen, og blir ikke vist i dokumentbiblioteket.
 6. Husk å **Lagre** når du er ferdig i bunn av listen.
+
+![](./media/53-RessursallokeringNy.png)
+
+
 
 
 
