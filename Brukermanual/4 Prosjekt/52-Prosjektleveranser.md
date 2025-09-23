@@ -17,13 +17,7 @@ Trykk på **Legg til nytt element** for å opprette Nye elementer/erfaringer.
 
 ## Legge til ny leveranse/element
 
-Fyll inn skjemaet i henhold til leveransen og med relevant informasjon. Les under bilde for beskrivelse av alle felt.
-
-![](./media/52-ProsjektleveranserNy1.png)
-
-![](./media/52-ProsjektleveranserNy2.png)
-
-![](./media/52-ProsjektleveranserNy3.png)
+Fyll inn skjemaet i henhold til leveransen og med relevant informasjon. Les under her for beskrivelse av alle felt.
 
 1. Feltet Tittel er markert med stjerne, disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
 2. Sett en leveransestatus for å enkelt kunne følge opp leveransen
@@ -32,5 +26,13 @@ Fyll inn skjemaet i henhold til leveransen og med relevant informasjon. Les unde
     - Underordnet
 4. Du kan velge interessentgruppe fra **Interessent(er)**-feltet hvis dette er relevant for en konkret målgruppe.
 5. Husk å **Lagre** når du er ferdig i bunn av listen.
+
+![](./media/52-ProsjektleveranserNy1.png)
+
+![](./media/52-ProsjektleveranserNy2.png)
+
+![](./media/52-ProsjektleveranserNy3.png)
+
+
 
 
