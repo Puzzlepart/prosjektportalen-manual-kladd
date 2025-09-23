@@ -29,10 +29,10 @@ prosjektene har valgt å publisere erfaringen til erfaringsloggen.
 
 5)  I denne delen finner du selve oversikten. Alle erfaringer som er delt med porteføljenivået vil vises i dette feltet. Husk at du ser bare erfaringer fra prosjekter du har tilgang til.
     
-      **A)** Ved å trykke på prosjektnavnet til den enkelte erfaring vil du bli sendt til tilhørende prosjektområde.
+     **A)** Ved å trykke på prosjektnavnet til den enkelte erfaring vil du bli sendt til tilhørende prosjektområde.
     
-      **B)** Ved å klikke på kolonneoverskriften kan du velge å gruppere på enkelte kolonner. (Hvilke kolonner du kan gruppere på er styrt 
+     **B)** Ved å klikke på kolonneoverskriften kan du velge å gruppere på enkelte kolonner. (Hvilke kolonner du kan gruppere på er styrt 
              av oppsettet av ‘Prosjektkolonner’ som du finner igjen i **Konfigurasjon av Prosjektportalen** lengst ned på siden.
     
-      **C)**  **Konfigurasjon av Prosjektportalen** finner du lengst ned på siden
+     **C)**  **Konfigurasjon av Prosjektportalen** finner du lengst ned på siden
    
