@@ -11,13 +11,14 @@ grand_parent: Prosjekt
 # Måleindikatorer
 
 Med måleindikatorer setter du opp hvilke konkrete måleparameter du ønsker å måle i prosjektet.
+Les under bilde for mer informasjon om opprettelse av nytt element i listen
 
-Hver enkelt måleindikator settes opp med **startverdi** og **Ønsket verdi**, samt at den knyttes til den gevinsten den har påvirkning mot.
-
-Trykk på **Ny** til å opprette ny måleparameter.
-
+![](./media/513-Måleindikatorer.png)
+![](./media/513-MåleindikatorerNy.png)
 Fyll ut feltene med relevant informasjon. Legg merke til at noen av feltene har en stjerne ved navnet. Disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
-
-**Vedlegg** kan legges til. Merk at disse vedleggene bare vil bli lagret i denne listen, og blir ikke vist i dokumentbiblioteket.
-
-![](./media/måleindikatorer.png)
+1. Trykk på **Legg til nytt element** til å opprette ny måleparameter.
+2. Hver enkelt måleindikator settes opp med **startverdi**
+3. Hver enkelt måleindikator settes opp med **startverdi**
+4. Knytt måleindikator til den gevinsten den har påvirkning mot.
+5. **Vedlegg** kan legges til. Merk at disse vedleggene bare vil bli lagret i denne listen, og blir ikke vist i dokumentbiblioteket.
+6. Lagre i bunn av listen når du er ferdig
