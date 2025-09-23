@@ -30,8 +30,8 @@ Når det legges inn en ny usikkerhet, er det en mengde data som legges inn på d
 
 Fyll ut feltene med relevant informasjon. Les under bilde for beskrivelse av alle felt.
 
-<img src = "./media/46-NyUsikkerhet1.png" width ="60%" height = "20%">
-<img src = "./media/46-NyUsikkerhet2.png" width ="60%" height = "20%">
+![](./media/46-NyUsikkerhet1.png)
+![](./media/46-NyUsikkerhet2.png)
 
 1. Feltet **Tittel** er markert med stjerne, disse er obligatoriske å fylle ut, og du får ikke lagret før det er gjort.
 2. Usikkerheten kan knyttes opp mot en prosjektfase om ønskelig.
