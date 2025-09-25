@@ -11,4 +11,4 @@ parent: Prosjekt
 
 Notatblokken er en Microsoft OneNote som er delt med alle som har tilgang til prosjektet. Dette er et verktøy for å skrive og lagre fellesnotater, inkludert møtenotater. Du kan lære mer om OneNote på [Microsoft sine egne supportsider](https://support.office.com/nb-NO/OneNote). 
 
-![](./media/image77.png)
+![](./media/50-Notatblokk.png)
