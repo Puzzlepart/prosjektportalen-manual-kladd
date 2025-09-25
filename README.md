@@ -3,7 +3,7 @@
 
 Brukermanualen vil til enhver tid gjenspeile siste gjeldende versjon av Prosjektportalen 365 som du finner på Github.
 
-Prosjektportalen for Office 365 er et prosjektstyringsverktøy for Office 365 basert på <a href="http://prosjektveiviseren.no">Prosjektveiviseren</a>. <a href="http://www.puzzlepart.com/prosjektportalen-365/">Mer informasjon på Puzzleparts nettsider.</a>
+Prosjektportalen for Office 365 er et prosjektstyringsverktøy for Office 365 basert på <a href="[http://prosjektveiviseren.no](https://prosjektveiviseren.digdir.no/)">Prosjektveiviseren</a>. <a href="http://www.puzzlepart.com/prosjektportalen-365/">Mer informasjon på Puzzleparts nettsider.</a>
 
 ## Hva er Prosjektportalen for Office 365?
 
