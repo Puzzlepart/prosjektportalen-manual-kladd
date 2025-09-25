@@ -20,8 +20,8 @@ informasjonen du trenger.
 
 ![](./media/31-Portefoljeoversikt.png)
 
-     **A)** Trykk på ***"Opprett ny visning"*** for å opprette ny visning.
-     Rettighet til å opprette nye visninger er styrt på listenivå. Listen er tilgjengelig gjennom konfigurasjons-siden for Prosjektportalen 365.
+**A)** Trykk på ***"Opprett ny visning"*** for å opprette ny visning.
+        Rettighet til å opprette nye visninger er styrt på listenivå. Listen er tilgjengelig gjennom konfigurasjons-siden for Prosjektportalen 365.
  
       ![](./media/31-Portefoljeoversit-OpprettVisnining.png)
    
