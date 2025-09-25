@@ -23,7 +23,7 @@ informasjonen du trenger.
 **A)** Trykk på ***"Opprett ny visning"*** for å opprette ny visning.
         Rettighet til å opprette nye visninger er styrt på listenivå. Listen er tilgjengelig gjennom konfigurasjons-siden for Prosjektportalen 365.
  
-      ![](./media/31-Portefoljeoversit-OpprettVisnining.png)
+ ![](./media/31-Portefoljeoversit-OpprettVisnining.png)
    
 4. Trykk på ikonen ![](./media/FiltrerKnapp.png) **"Filtrer"** for å filtrere og velge flere felter å vise. Her kan du også angi et eller flere felter som du ønsker å filtrere på.
 
