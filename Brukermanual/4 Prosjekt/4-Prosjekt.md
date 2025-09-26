@@ -15,6 +15,7 @@ prosjektområder.
 
 Før egenskaper for prosjektet er fylt ut, vil forsiden se ut som bildet under. Ser under for bildeforklaringen. Etter at prosjektets fase er satt, vil kun dokumenter og eventuelle usikkerheter knyttet opp mot gjeldende fase vises. Det første du bør gjøre er å redigere egenskapene til prosjektet og fylle inn relevant prosjektinformasjon, [informasjon om hvordan finnes her](41-ProsjektinformasjonOgFasesetting.html)
 
+[informasjon om hvordan finnes her](https://docs.puzzlepart.com/prosjektportalen-manual-kladd/Brukermanual/4%20Prosjekt/41-ProsjektinformasjonOgFasesetting.html)
 
 ![](./media/4-Prosjektomrade.png)
 ![](./media/4-Prosjektomrade_MoteDokTeam.png)
