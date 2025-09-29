@@ -1,0 +1,12 @@
+---
+layout: default
+title: Idémodul
+nav_order: 300
+nav_exclude: false
+has_children: false
+parent: Porteføljenivå
+---
+
+# Prosjekttidslinje
+Idémodulen er en visning som gir en oversikt over alle registrerte og behandlede data. 
+Alle idéer registreres og behandles i lister.
