@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Idémodul
-nav_order: 300
+nav_order: 399
 nav_exclude: false
 has_children: false
 parent: Porteføljenivå
