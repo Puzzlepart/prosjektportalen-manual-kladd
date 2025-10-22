@@ -63,7 +63,9 @@ Hva som skal ligge tilgjengelig på disse sidene er styrt av porteføljeadminist
 **C) Standardinnhold** - Standardinnhold er faktiske data som man kan legges til i de enkelte lister og biblioteker som finnes på prosjektområdet.
 
 ![](./media/3.0-Prosjektmal.png)
+
 ![](./media/3.0-Prosjekttillegg.png)
+
 ![](./media/3.0-Standardinnhold.png)
 
 
