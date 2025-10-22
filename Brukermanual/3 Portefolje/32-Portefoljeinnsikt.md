@@ -12,7 +12,7 @@ parent: Porteføljenivå
 Med porteføljeinnsikten vil du kunne sammenstille data om prosjektet, og vise disse med grafiske elementer. Det finnes flere visninger som er forhåndsdefinert i Prosjektportalen, og nye kan også settes opp om ønskelig.
 
 
-![](./media/32-Portefoljeinnsikt.png)
+![](./media/3.2-Portefoljeinnsikt.png)
 
 
 
