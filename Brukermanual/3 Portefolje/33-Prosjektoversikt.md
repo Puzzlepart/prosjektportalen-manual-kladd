@@ -16,7 +16,8 @@ Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer
 
 ![](./media/3.3-Prosjektoversikt.png)
 
-1. **Prosjektoversikt:** Har ser du en oversikt over prosjekter, hvilken prosjekttype og tjenesteområde prosjektet tilhører. [Se bild og mer info under (A)](#A-1).[Se bild og mer info under](#prosjektoversikt).    [Se bild og mer info under](#A).
+1. **Prosjektoversikt:** Har ser du en oversikt over prosjekter, hvilken prosjekttype og tjenesteområde prosjektet tilhører. [Se bild og mer info under (A)](#A-1).[Se bild og mer info under](#prosjektoversikt).    [Se bild og mer info under](#A  
+Gjennom).
 
 
 2. **Prosjektfase:** Har ser du hvilken fase prosjektene er i. 
