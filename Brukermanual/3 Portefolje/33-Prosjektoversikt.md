@@ -14,7 +14,7 @@ parent: Porteføljenivå
 
 Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer. 
 
-![](./media/33-Prosjektoversikt.png)
+![](./media/3.3-Prosjektoversikt.png)
 
 1. **Prosjektoversikt:** Har ser du en oversikt over prosjekter, hvilken prosjekttype og tjenesteområde prosjektet tilhører. [Se bild og mer info under (A)](#prosjektoversikt-1).
 
@@ -39,17 +39,17 @@ Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer
  
  **B)** Hold muspekeren over Statusikonene for å få mer detaljert informasjon om ststus på prosjektet
 
-![](./media/33-Prosjektoversikt-ProsjektogStatus.png)
+![](./media/3.3-Prosjektoversikt-ProsjektogStatus.png)
         
  **C)** Klikk på Rediger for å få opp en sidepanel der du kan redigere utseende på Statusikoner så som bredde, størrelse og avstand.  
         Lagre dine endringer
   
-  ![](./media/33-Prosjektoversikt-RedigerStatus.png) 
+  ![](./media/3.3-Prosjektoversikt-RedigerStatus.png) 
 
 
   **D)** Ved å trykke på ***Portefølje*** kan du bytte mellom ulike Porteføljer. Det er mulig å legge til flere Porteføljer, trykk på **Administrer porteføljer** å åpne porteføljelisten.
 
-  ![](./media/33-ProsjektoversiktPortefolje.png) 
+  ![](./media/3.3-ProsjektoversiktPortefolje.png) 
   ***For å legge til ny portefølje:***
     
    ***I)  Trykk på Ny***
@@ -57,4 +57,4 @@ Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer
    ***II) Trykk på **Element** og legg inn ny portefølje.***
      
 
-   <img src = "./media/33-Prosjektoversikt-NyPortefolje.png" width ="80%" height = "100%">
+   <img src = "./media/3.3-Prosjektoversikt-NyPortefolje.png" width ="80%" height = "100%">
