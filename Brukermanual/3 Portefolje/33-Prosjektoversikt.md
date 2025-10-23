@@ -34,8 +34,8 @@ Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer
 ## Detaljert beskrivelse av punktene ovan
 
 
-
- ####**A)** Gjennom at holde muspekeren over prosjektnavnet i første kolumnen får man opp mer informasjon og detaljer om prosjektet. 
+#### Prosjektoversikt
+ **A)** Gjennom at holde muspekeren over prosjektnavnet i første kolumnen får man opp mer informasjon og detaljer om prosjektet. 
  
  **B)** Hold muspekeren over Statusikonene for å få mer detaljert informasjon om ststus på prosjektet
 
