@@ -21,7 +21,7 @@ Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer
 2. **Prosjektfase:** Har ser du hvilken fase prosjektene er i. 
 3. **Status ikoner:** Dessa ikoner gir en visuell og øyeblikkelig oversikt med status for prosjekter i pågående fase. [Se bild og mer info under (B)](#prosjektoversikt-1).
 
-4.  **Rediger visning:** Her kan man endre bredde for statuskolonner og andre innstillinger.[Se bild og mer info under (C)](#Rediger-visning-1).
+4.  **Rediger visning:** Her kan man endre bredde for statuskolonner og andre innstillinger. [Se bild og mer info under (C)](#Rediger-visning).
  
 5. **Portfølje meny:** Her kan du administrere porteføljer du har tilgang til samt bytte til andre porteføljer. [Se bild og mer info under (D)](#prosjektoversikt-1).
 
