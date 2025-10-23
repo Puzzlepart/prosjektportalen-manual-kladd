@@ -19,7 +19,7 @@ Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer
 1. **Prosjektoversikt:** Har ser du en oversikt over prosjekter, hvilken prosjekttype og tjenesteområde prosjektet tilhører. [Se bild og mer info under (A)](#Prosjektoversikt-1).
 
 2. **Prosjektfase:** Har ser du hvilken fase prosjektene er i. 
-3. **Status ikoner:** Dessa ikoner gir en visuell og øyeblikkelig oversikt med status for prosjekter i pågående fase. [Se bild og mer info under (B)](#prosjektoversikt).
+3. **Status ikoner:** Dessa ikoner gir en visuell og øyeblikkelig oversikt med status for prosjekter i pågående fase. [Se bild og mer info under (B)](#prosjektoversikt-1).
 
 4.  **Rediger visning:** Her kan man endre bredde for statuskolonner og andre innstillinger.[Se bild og mer info under (C)](#prosjektoversikt-1).
  
