@@ -11,7 +11,7 @@ parent: Porteføljenivå
 
 Leveranseoversikten viser alle leveranser fra alle prosjekter. Det er kun leveranser fra de prosjekter du har tilgang til som er synlige for deg. For å endre på innholdet i Leveranseoversikten henviser vi til manualen for administratorer av Prosjektportalen.
 
-![](./media/36-LeveranseOversikt.png)
+![](./media/3.6-LeveranseOversikt.png)
 
 1. Bruk søkefeltet for å finne leveranseelementer på bakgrunn av alle tilgjengelige felter.
    
@@ -19,7 +19,7 @@ Leveranseoversikten viser alle leveranser fra alle prosjekter. Det er kun levera
 
 3. Her kan du velge mellom eksisterende visninger, editere visning og **Oprette ny visning**
    
-   ![](./media/36-LevOversikt-OpprettNyVisning.png)
+   ![](./media/3.6-LevOversikt-OpprettNyVisning.png)
    
 4. Med ![](./media/FiltrerKnapp.png)-knappen kan du filtrerere basert på tilgjengelige felter.
 
