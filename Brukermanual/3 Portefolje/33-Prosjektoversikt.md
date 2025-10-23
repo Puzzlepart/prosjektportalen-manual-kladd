@@ -23,7 +23,7 @@ Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer
 
 4.  **Rediger visning:** Her kan man endre bredde for statuskolonner og andre innstillinger. [Se bild og mer info under (C)](#Rediger-visning).
  
-5. **Portfølje meny:** Her kan du administrere porteføljer du har tilgang til samt bytte til andre porteføljer. [Se bild og mer info under (D)](#prosjektoversikt-1).
+5. **Portfølje meny:** Her kan du administrere porteføljer du har tilgang til samt bytte til andre porteføljer. [Se bild og mer info under (D)](#Portfølje-meny).
 
 6. **Filtrering:** Klikk på ![](./media/FiltrerKnapp.png)-knappen og du kan filtrere på *Tjenesteområde* eller *Prosjekttype*. 
 
@@ -44,7 +44,7 @@ Prosjektoversikt gir en oversikt over alle prosjektene på tvers av porteføljer
   
   ![](./media/3.3-Prosjektoversikt-RedigerStatus.png) 
 
-
+#### Portfølje meny
   **D)** Ved å trykke på ***Portefølje*** kan du bytte mellom ulike Porteføljer. Det er mulig å legge til flere Porteføljer, trykk på **Administrer porteføljer** å åpne porteføljelisten.
 
   ![](./media/3.3-ProsjektoversiktPortefolje.png) 
