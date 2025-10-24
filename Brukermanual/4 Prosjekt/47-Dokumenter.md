@@ -26,11 +26,11 @@ På forsiden av prosjektområdet er det bygget inn en visning av prosjektdokumen
 
   **A)** Hvilken visning som er gjeldende ser du her 
 
-![](./media/47-Dokumenter.png)
+![](./media/4.7-Dokumenter.png)
 
 ### Redigere gjeldende visning
 Hva som skal være standardvisning kan defineres i dokumentbiblioteket. Her ligger alle dokumentene i prosjektet.
-![](./media/47-Dokumenter-RedigerGjlendeVisning.png)
+![](./media/4.7-Dokumenter-RedigerGjlendeVisning.png)
 1. Dokumentbiblioteket  er tilgjengelig i venstremenyen. 
 2. Åpne visningsmenyen på høyre side.
 3. Velg visningen du ønsker å vise som standard
@@ -51,7 +51,7 @@ Disse er de ulike metodene som vil bli beskrevet:
 3. Last opp-knappen
 4. Dra-og-slipp-metoden
   
-![](./media/47-Dokumenter-LastOppDok.png)
+![](./media/4.7-Dokumenter-LastOppDok.png)
 
 
 
@@ -65,21 +65,18 @@ Disse malene vil også allerede kunne være merket med relevant prosjektfase.
 1. Marker malen du ønsker å hente inn
 2. Klikk på velg
 
-<img src ="./media/47-Dokumenter-HentDokmal.png" width ="70%" height = "50%">
-
+![](./media/4.7-Dokumenter-HentDokmal.png)
 ### Ny-knappen
 Med "Ny"-knappen kan du opprette et nytt dokument i dokumentbiblioteket. Trykk på **Ny** og velg hvilken type dokumnet du vil opprette.
 Hva slags dokumenter du kan opprette er styrt av prosjektområdets innholdstyper.
 
-<img src = "./media/47-Dokumenter-NyDok.png" width ="70%" height = "50%">
-
+![](./media/4.7-Dokumenter-NyDok.png)
 ### Last opp-knappen
 Du kan også benytte deg av "Last opp"-knappen som ligger i toppmenyen i dokumentbiblioteket. Her blar du deg frem til de aktuelle dokumentene på din egen PC, og velger disse for opplasting.
 
 Dokumentene du laster opp blir ikke flyttet, men kopiert inn i biblioteket.
 
-<img src = "./media/47-Dokumenter-LastOpp.png" width ="70%" height = "50%">
-
+![](./media/4.7-Dokumenter-LastOpp.png)
 ### Dra-og-slipp-metoden
 
 Har du dokumenter liggende på en filkatalog eller som vedlegg i en epost er det lett å kopiere disse rett inn i dokumentbiblioteket ved å markere de i systemet de ligger, og kort og greit dra-og-slippe dem inn i dokumentbiblioteket. 
@@ -100,16 +97,14 @@ Du kan redigere egenskapene til et dokument. Om du ønsker å (for eksempel) end
   2. Gjør dine endringer i dokumentegenskapene
   3. Avslutte rutenettvisning etterpå for å lagre endringene.
 
-  <img src = "./media/47-Dokumenter-RedRutenett.png" width ="70%" height = "50%">
-  
+  ![](./media/4.7-Dokumenter-RedRutenett.png)
 
 ### Elipsemenyen 
    1. Trykk på Elipsemenyen
    2.  Velg mer
    3.  Velg egenskaper og ny side åpnes og du kan editere egenskapene
       
- <img src = "./media/47-Dokumenter-Elipsemeny.png" width ="70%" height = "50%">
- 
+ ![](./media/4.7-Dokumenter-Elipsemeny.png)
 ### Detaljruten
 1. For å åpne detaljrute panelen på høyre siden og redigere egenskapene for dokumentet
 2. Marker dokumentet du vil endre egenskaper på
@@ -120,8 +115,7 @@ eller
 4. Trykke på Elipsemenyen
 5. Velge Detaljer
 
-<img src = "./media/47-Dokumenter-Detaljrute.png" width ="70%" height = "50%">
-
+![](./media/4.7-Dokumenter-Detaljrute.png)
 
 
 ## Versjonslogg
@@ -135,8 +129,7 @@ Det er to veier til å finne versjonsloggen, marker dokumentet:
 - Klikke på **Elipsemenyen** på dokumentet
 - Høyreklikke på dokumentet
   
-<img src = "./media/47-Dokumenter-Vesjonslogg1.png" width ="70%" height = "60%">
-
+![](./media/4.7-Dokumenter-Vesjonslogg1.png)
 
 
 1. I versjonsloggen kan du se på tidligere versjoner med dato og tidspunkt i "Endret"-kolonnen 
@@ -144,6 +137,5 @@ Det er to veier til å finne versjonsloggen, marker dokumentet:
 3. Gjennopprett dokumentet fra tidligere versjon hvis ønskelig. 
 Når du gjenoppretter en tidligere versjon, blir den nåværende versjonen lagret i versjonsloggen.
 
-<img src = "./media/47-Dokumenter-Vesjonslogg2.png" width ="70%" height = "60%"> 
-
+![](./media/4.7-Dokumenter-Vesjonslogg2.png)
 
